@@ -148,8 +148,8 @@ export const MapView: React.FC<MapViewProps> = ({
         className: 'food-marker-container',
         html: markerHtml,
         iconSize: [160, 74],
-        iconAnchor: [80, 38],
-        popupAnchor: [0, -36],
+        iconAnchor: [80, 44], // tip of the pin tail (38px bubble + 6px tail)
+        popupAnchor: [0, -42],
       });
 
 

@@ -5,7 +5,7 @@ import { createSearchIndex, searchPlaces } from '../utils/search';
 import { calculateDistanceInMiles } from '../utils/formatters';
 import { UserLocation } from './useGeolocation';
 
-const STORAGE_KEY = 'irvine_asian_food_places_v5_full_database';
+const STORAGE_KEY = 'irvine_asian_food_places_v6_verified_locations';
 const FAVORITES_KEY = 'irvine_asian_food_favorites_v1';
 
 

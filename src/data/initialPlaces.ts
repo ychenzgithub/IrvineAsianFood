@@ -149,7 +149,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 8:00 AM – 10:00 PM",
     "priceLevel": "$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 1363,
     "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
@@ -197,39 +197,6 @@ export const INITIAL_PLACES: Place[] = [
       "Tustin"
     ],
     "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": "99_ranch_costa_mesa",
-    "name": "99大华超级市场",
-    "enName": "99 Ranch Market - Costa Mesa",
-    "category": "market",
-    "subcategory": "大型华人综合超市 / 亚洲调味生鲜",
-    "city": "Costa Mesa",
-    "address": "2651 Irvine Ave, Costa Mesa, CA 92627, USA",
-    "lat": 33.6577778,
-    "lng": -117.8858333,
-    "phone": "(949) 631-4404",
-    "website": "http://irvineranchmarketoc.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=15281039834301047046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:30 AM – 8:00 PM",
-    "priceLevel": "$",
-    "rating": 4.4,
-    "reviewCount": 384,
-    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨经典招牌菜",
-        "tag": "必点推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 认证坐标",
-      "高分精选",
-      "Costa Mesa"
-    ],
-    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
@@ -301,10 +268,10 @@ export const INITIAL_PLACES: Place[] = [
   {
     "id": "tokyo_central_tustin",
     "name": "东京中央日本超市",
-    "enName": "Tokyo Central - Tustin The District",
+    "enName": "Tokyo Central - Irvine",
     "category": "market",
     "subcategory": "大型日本生活超市 / 熟食街 / 和牛代煎",
-    "city": "Tustin",
+    "city": "Irvine",
     "address": "14120 Culver Dr, Irvine, CA 92604, USA",
     "lat": 33.708226599999996,
     "lng": -117.7821346,
@@ -316,7 +283,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.2,
     "reviewCount": 223,
-    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
       {
         "name": "主厨经典招牌菜",
@@ -326,9 +293,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 认证坐标",
       "高分精选",
-      "Tustin"
+      "Irvine"
     ],
-    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
@@ -432,10 +399,10 @@ export const INITIAL_PLACES: Place[] = [
   },
   {
     "id": "tai_er_irvine",
-    "name": "太二酸菜鱼",
-    "enName": "Tai Er Sauerkraut Fish - Irvine",
+    "name": "田大厨",
+    "enName": "Chef Tian - Irvine",
     "category": "chinese",
-    "subcategory": "经典川菜 / 老坛酸菜鱼",
+    "subcategory": "中式料理",
     "city": "Irvine",
     "address": "14370 Culver Dr Ste F, Irvine, CA 92604, USA",
     "lat": 33.70542,
@@ -710,7 +677,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 688,
     "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
@@ -743,7 +710,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:30 AM – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 752,
     "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
@@ -809,7 +776,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 346,
     "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
@@ -895,10 +862,10 @@ export const INITIAL_PLACES: Place[] = [
   {
     "id": "yin_tang_lake_forest",
     "name": "隐烫骨汤麻辣烫",
-    "enName": "Yin Tang Spicy Hot Pot - Lake Forest",
+    "enName": "Yin Tang Spicy Hot Pot - Irvine Walnut",
     "category": "chinese",
     "subcategory": "自选骨汤麻辣烫 / 骨汤香浓",
-    "city": "Lake Forest",
+    "city": "Irvine",
     "address": "5408 Walnut Ave B, Irvine, CA 92618, USA",
     "lat": 33.6896327,
     "lng": -117.7693623,
@@ -908,9 +875,9 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 12:00 AM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 121,
-    "parkingInfo": "Lake Forest 商业广场提供免费平地或立体停车位",
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
       {
         "name": "主厨经典招牌菜",
@@ -920,9 +887,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 认证坐标",
       "高分精选",
-      "Lake Forest"
+      "Irvine"
     ],
-    "description": "精选 Lake Forest 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
@@ -943,39 +910,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.1,
     "reviewCount": 628,
-    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨经典招牌菜",
-        "tag": "必点推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 认证坐标",
-      "高分精选",
-      "Irvine"
-    ],
-    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": "101_noodle_express_irvine",
-    "name": "山东大馅牛肉卷饼",
-    "enName": "101 Noodle Express - Walnut Village",
-    "category": "chinese",
-    "subcategory": "山东大馅水饺 / 牛肉卷饼",
-    "city": "Irvine",
-    "address": "5408 Walnut Ave # A, Irvine, CA 92618, USA",
-    "lat": 33.689689900000005,
-    "lng": -117.7692814,
-    "phone": "(949) 654-8542",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=5624332703993122189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "11:00 AM - 9:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 296,
     "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
       {
@@ -1125,10 +1059,10 @@ export const INITIAL_PLACES: Place[] = [
   },
   {
     "id": "kaneko_hannosuke_costa_mesa",
-    "name": "Hannosuke Costa Mesa",
-    "enName": "Hannosuke Costa Mesa",
+    "name": "KADON Katsu Bar",
+    "enName": "KADON Katsu Bar - Costa Mesa",
     "category": "japanese",
-    "subcategory": "天妇罗丼 / 穴子星鳗盖饭",
+    "subcategory": "日式炸猪排 / 丼饭",
     "city": "Costa Mesa",
     "address": "1170 Baker St G2, Costa Mesa, CA 92626, USA",
     "lat": 33.68094,
@@ -1268,7 +1202,7 @@ export const INITIAL_PLACES: Place[] = [
     "phone": "(714) 731-1719",
     "website": "http://www.gyu-kaku.com/tustin",
     "googleMapsUrl": "https://maps.google.com/?cid=3743136185384935341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
+    "status": "temporarily_closed",
     "hoursText": "11:00 AM - 9:30 PM",
     "priceLevel": "$$",
     "rating": 4.3,
@@ -1390,13 +1324,13 @@ export const INITIAL_PLACES: Place[] = [
   {
     "id": "kaju_soft_tofu_irvine",
     "name": "加州嫩豆腐煲",
-    "enName": "Kaju Soft Tofu - Irvine Northwood",
+    "enName": "Kaju Soft Tofu - Irvine Walnut",
     "category": "korean",
     "subcategory": "韩式豆腐锅 / 汤饭 / 石锅饭",
     "city": "Irvine",
     "address": "5408 Walnut Ave, Irvine, CA 92604, USA",
-    "lat": 33.689433199999996,
-    "lng": -117.76948700000001,
+    "lat": 33.6894351,
+    "lng": -117.7694812,
     "phone": "(949) 653-2849",
     "website": "",
     "googleMapsUrl": "https://maps.google.com/?cid=2529928236456053886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1423,7 +1357,7 @@ export const INITIAL_PLACES: Place[] = [
   {
     "id": "bbq_chicken_irvine",
     "name": "bb.q Chicken 韩式炸鸡",
-    "enName": "bb.q Chicken - Irvine Heritage",
+    "enName": "bb.q Chicken - Irvine Quail Hill",
     "category": "korean",
     "subcategory": "韩式炸鸡 / 啤酒夜宵",
     "city": "Irvine",
@@ -1488,10 +1422,10 @@ export const INITIAL_PLACES: Place[] = [
   },
   {
     "id": "song_hak_tustin",
-    "name": "松鹤韩式烤牛肠",
-    "enName": "Song Hak Korean BBQ - Tustin",
+    "name": "Burning X Korean BBQ",
+    "enName": "Burning X Korean BBQ - Tustin",
     "category": "korean",
-    "subcategory": "韩式烤牛肠 / 烤肉专门店",
+    "subcategory": "韩式烤肉",
     "city": "Tustin",
     "address": "13828 Red Hill Ave, Tustin, CA 92780, USA",
     "lat": 33.7349217,
@@ -1502,7 +1436,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:30 AM – 10:30 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 574,
     "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
     "dishes": [
@@ -1601,7 +1535,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 9:00 PM",
     "priceLevel": "$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 616,
     "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
     "dishes": [
@@ -1619,24 +1553,24 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
-    "id": "pho_holic_santa_ana",
+    "id": "pho_holic_costa_mesa",
     "name": "Pho Holic 越南牛肉粉",
-    "enName": "Pho Holic - Santa Ana",
+    "enName": "Phởholic - South Coast Plaza",
     "category": "southeast",
     "subcategory": "传统越南牛肉粉 / 鲜牛骨髓 / 大牛肋排",
-    "city": "Santa Ana",
-    "address": "14932 Bushard St, Westminster, CA 92683, USA",
-    "lat": 33.7457442,
-    "lng": -117.9632825,
-    "phone": "(714) 733-8822",
-    "website": "https://phoholic.site/",
-    "googleMapsUrl": "https://maps.google.com/?cid=7699589780560627403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "Costa Mesa",
+    "address": "3333 Bristol Street, BLM, 1 Bloomingdale's, Costa Mesa, CA 92626, USA",
+    "lat": 33.6887517,
+    "lng": -117.8877975,
+    "phone": "(714) 279-9999",
+    "website": "http://phoholic.la/",
+    "googleMapsUrl": "https://maps.google.com/?cid=8254940326446684703&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "status": "open",
-    "hoursText": "Monday: 8:00 AM – 12:00 AM",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
     "priceLevel": "$",
-    "rating": 4.4,
-    "reviewCount": 2386,
-    "parkingInfo": "Santa Ana 商业广场提供免费平地或立体停车位",
+    "rating": 3.9,
+    "reviewCount": 227,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
     "dishes": [
       {
         "name": "主厨经典招牌菜",
@@ -1646,21 +1580,21 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 认证坐标",
       "高分精选",
-      "Santa Ana"
+      "Costa Mesa"
     ],
-    "description": "精选 Santa Ana 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": "heytea_irvine",
     "name": "喜茶",
-    "enName": "HEYTEA - Irvine Heritage",
+    "enName": "HEYTEA - Irvine Walnut",
     "category": "dessert_tea",
     "subcategory": "新茶饮 / 芝士茗茶 / 真原果",
     "city": "Irvine",
     "address": "5414 Walnut Ave Ste e, Irvine, CA 92604, USA",
-    "lat": 33.689191400000006,
-    "lng": -117.7702832,
+    "lat": 33.6892715,
+    "lng": -117.7703543,
     "phone": "(949) 600-2280",
     "website": "https://www.heytea.com/",
     "googleMapsUrl": "https://maps.google.com/?cid=9366370271269885804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1685,24 +1619,24 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
-    "id": "chagee_irvine_coming_soon",
-    "name": "霸王茶姬原叶鲜奶茶",
-    "enName": "CHAGEE Modern Tea Bar - Irvine",
-    "category": "coming_soon",
-    "subcategory": "东方原叶鲜奶茶 / 尔湾新地标",
-    "city": "Irvine",
-    "address": "555 The, Shops At Mission Viejo #218, Mission Viejo, CA 92691, USA",
-    "lat": 33.5581546,
-    "lng": -117.6696332,
-    "phone": "(949) 385-3914",
+    "id": "chagee_south_coast_plaza",
+    "name": "霸王茶姬",
+    "enName": "CHAGEE Modern Teahouse - South Coast Plaza",
+    "category": "dessert_tea",
+    "subcategory": "东方原叶鲜奶茶",
+    "city": "Costa Mesa",
+    "address": "3333 Bristol St, Costa Mesa, CA 92626, USA",
+    "lat": 33.6926603,
+    "lng": -117.8883362,
+    "phone": "(657) 660-3131",
     "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=2428735719957243291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "coming_soon",
+    "googleMapsUrl": "https://maps.google.com/?cid=133960784297218283&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "status": "grand_opening",
     "hoursText": "Monday: 10:00 AM – 8:00 PM",
     "priceLevel": "$",
-    "rating": 4.6,
-    "reviewCount": 28,
-    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "rating": 5,
+    "reviewCount": 1,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
     "dishes": [
       {
         "name": "主厨经典招牌菜",
@@ -1712,42 +1646,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 认证坐标",
       "高分精选",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "id": "orobae_irvine_heritage",
-    "name": "奥罗贝原茶工作室",
-    "enName": "Orobae - Heritage Plaza",
-    "category": "dessert_tea",
-    "subcategory": "极致萃茶工艺 / 浓醇原茶奶茶",
-    "city": "Irvine",
-    "address": "14250 Culver Drive Suite #E, Irvine, CA 92604, USA",
-    "lat": 33.706687099999996,
-    "lng": -117.7835498,
-    "phone": "",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=16201297819310364333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "11:00 AM - 9:30 PM",
-    "priceLevel": "$",
-    "rating": 4.5,
-    "reviewCount": 499,
-    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨经典招牌菜",
-        "tag": "必点推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 认证坐标",
-      "高分精选",
-      "Irvine"
-    ],
-    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
@@ -1829,7 +1730,7 @@ export const INITIAL_PLACES: Place[] = [
     "phone": "(949) 955-9236",
     "website": "http://www.meetfresh.us/",
     "googleMapsUrl": "https://maps.google.com/?cid=7456875652715245735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
+    "status": "temporarily_closed",
     "hoursText": "Monday: 12:00 – 10:00 PM",
     "priceLevel": "$",
     "rating": 3.8,
@@ -2017,10 +1918,10 @@ export const INITIAL_PLACES: Place[] = [
   {
     "id": "mochinut_irvine_tustin",
     "name": "Mochinut 麻薯甜甜圈",
-    "enName": "Mochinut - Tustin",
+    "enName": "Mochinut - Santa Ana",
     "category": "dessert_tea",
     "subcategory": "Q弹麻薯波堤 / 韩式拉丝热狗",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "1935 17th St C, Santa Ana, CA 92705, USA",
     "lat": 33.7601963,
     "lng": -117.83929029999999,
@@ -2032,7 +1933,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.1,
     "reviewCount": 18,
-    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "parkingInfo": "Santa Ana 商业广场提供免费平地或立体停车位",
     "dishes": [
       {
         "name": "主厨经典招牌菜",
@@ -2042,9 +1943,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 认证坐标",
       "高分精选",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "description": "精选 Santa Ana 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
   },
   {
@@ -2433,47 +2334,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:35:27Z"
   },
   {
-    "id": "google_ChIJe6GdAq4n3YARkhh3CyYtY8M",
-    "name": "正宗川菜",
-    "enName": "PENGXIANG SICHUAN KITCHEN",
-    "category": "chinese",
-    "subcategory": "正宗川菜",
-    "city": "Irvine",
-    "address": "9965 Ellis Ave Ste A2, Fountain Valley, CA 92708, USA",
-    "lat": 33.6943652,
-    "lng": -117.9555164,
-    "phone": "(714) 916-0082",
-    "website": "http://www.pengxiangsichuankitchen.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14079146501514664082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 47,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:27Z"
-  },
-  {
     "id": "google_ChIJ13HjbJXp3IARrsqF2yGtD0A",
     "name": "秋金川菜馆",
     "enName": "QJ KITCHEN SICHUAN WOK   BBQ   BISTRO",
     "category": "chinese",
     "subcategory": "正宗川菜",
-    "city": "Irvine",
+    "city": "Lake Forest",
     "address": "23809 El Toro Rd, Lake Forest, CA 92630, USA",
     "lat": 33.6185925,
     "lng": -117.70689069999999,
@@ -2485,7 +2351,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.8,
     "reviewCount": 322,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -2495,9 +2361,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:27Z"
@@ -2648,7 +2514,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Wagyu Factory   Tustin",
     "category": "chinese",
     "subcategory": "火锅串串",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "2415 Park Ave, Tustin, CA 92782, USA",
     "lat": 33.6980842,
     "lng": -117.82855520000001,
@@ -2660,7 +2526,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.9,
     "reviewCount": 2231,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -2670,9 +2536,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:28Z"
@@ -2718,7 +2584,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Palette Dim Sum",
     "category": "chinese",
     "subcategory": "粤式早茶点心",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "3015 El Camino Real, Tustin, CA 92782, USA",
     "lat": 33.7238049,
     "lng": -117.7917442,
@@ -2730,7 +2596,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.1,
     "reviewCount": 160,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -2740,9 +2606,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:29Z"
@@ -2790,15 +2656,15 @@ export const INITIAL_PLACES: Place[] = [
     "subcategory": "台湾小吃",
     "city": "Irvine",
     "address": "5394 Unit H, Walnut Ave, Irvine, CA 92618, USA",
-    "lat": 33.690304999999995,
-    "lng": -117.7704334,
+    "lat": 33.6893344,
+    "lng": -117.76958599999999,
     "phone": "(949) 654-2366",
     "website": "",
     "googleMapsUrl": "https://maps.google.com/?cid=17197429912270952734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
     "status": "open",
     "hoursText": "Monday: 10:00 AM – 10:00 PM",
     "priceLevel": "$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 406,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -3278,7 +3144,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Slurpin' Ramen Bar   Costa Mesa",
     "category": "japanese",
     "subcategory": "正宗日式拉面",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "2981 Bristol St, Costa Mesa, CA 92626, USA",
     "lat": 33.6794644,
     "lng": -117.8861708,
@@ -3290,7 +3156,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.4,
     "reviewCount": 201,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3300,9 +3166,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:32Z"
@@ -3348,7 +3214,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Manpuku",
     "category": "japanese",
     "subcategory": "日式炭火烧肉",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "891 Baker St, Costa Mesa, CA 92626, USA",
     "lat": 33.6798888,
     "lng": -117.8934926,
@@ -3360,7 +3226,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$$",
     "rating": 4.4,
     "reviewCount": 286,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3370,114 +3236,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:34Z"
-  },
-  {
-    "id": "google_ChIJKYIYNADZ3IARhG-XfTCCxis",
-    "name": "炭火烤肉",
-    "enName": "Oniku Premium AYCE BBQ & Shabu Shabu",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Irvine",
-    "address": "12761 Harbor Blvd, Garden Grove, CA 92840, USA",
-    "lat": 33.777524899999996,
-    "lng": -117.91623499999999,
-    "phone": "",
-    "website": "http://onikubbqshabu.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3154351733796728708&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 11:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 161,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:34Z"
-  },
-  {
-    "id": "google_ChIJleydgTQn3YARNfDC0zuLSFo",
-    "name": "日式炭火烧肉",
-    "enName": "Tsuruhashi",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Irvine",
-    "address": "18798 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.6899333,
-    "lng": -117.95327499999999,
-    "phone": "(714) 593-8393",
-    "website": "https://tsuruhashirestaurant.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6505602750808780853&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 – 10:00 PM",
-    "priceLevel": "$$$",
-    "rating": 4.6,
-    "reviewCount": 514,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:34Z"
-  },
-  {
-    "id": "google_ChIJY4p3M8sg3YARIPtPyGwL5sE",
-    "name": "日式炭火烧肉",
-    "enName": "Tsuruhashi Plus",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Irvine",
-    "address": "18950 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.687671,
-    "lng": -117.95232580000001,
-    "phone": "(714) 884-3750",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=13971867455808600864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 21,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:34Z"
@@ -3523,7 +3284,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Wagyu Factory   Lake Forest",
     "category": "japanese",
     "subcategory": "日式炭火烧肉",
-    "city": "Irvine",
+    "city": "Lake Forest",
     "address": "23621 El Toro Rd Ste C, Lake Forest, CA 92630, USA",
     "lat": 33.6196945,
     "lng": -117.70229570000001,
@@ -3535,7 +3296,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$$",
     "rating": 4.9,
     "reviewCount": 1656,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3545,44 +3306,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:34Z"
-  },
-  {
-    "id": "google_ChIJJ7KCFXzV3IARDPdNluZOEsc",
-    "name": "日式炭火烧肉",
-    "enName": "Wagyu Factory   Brea",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Irvine",
-    "address": "120 S Brea Blvd #1, Brea, CA 92821, USA",
-    "lat": 33.919677,
-    "lng": -117.89838,
-    "phone": "(657) 286-7017",
-    "website": "https://wagyufactory.com/project/wagyu-factory-brea/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14344614515399587596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 536,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:34Z"
@@ -3663,7 +3389,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Mr. BBQ Jr",
     "category": "korean",
     "subcategory": "正宗韩式烤肉",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "2453 Park Ave, Tustin, CA 92782, USA",
     "lat": 33.6972124,
     "lng": -117.82892189999998,
@@ -3675,7 +3401,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 32,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3685,9 +3411,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:35Z"
@@ -3733,7 +3459,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "I Can Barbecue Korean Grill",
     "category": "korean",
     "subcategory": "正宗韩式烤肉",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "2881 El Camino Real, Tustin, CA 92782, USA",
     "lat": 33.724691799999995,
     "lng": -117.7937271,
@@ -3745,7 +3471,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 490,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3755,9 +3481,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:35Z"
@@ -3768,7 +3494,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "9 Dish Tofu House",
     "category": "korean",
     "subcategory": "正宗韩式烤肉",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "13771 Newport Ave Ste 4, Tustin, CA 92780, USA",
     "lat": 33.7411634,
     "lng": -117.82082439999999,
@@ -3780,7 +3506,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.8,
     "reviewCount": 77,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3790,9 +3516,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:35Z"
@@ -3873,7 +3599,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Myung Dong Tofu House & BBQ",
     "category": "korean",
     "subcategory": "韩式嫩豆腐锅",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "688 Baker St #1, Costa Mesa, CA 92626, USA",
     "lat": 33.6803384,
     "lng": -117.88498959999998,
@@ -3885,7 +3611,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.8,
     "reviewCount": 91,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -3895,9 +3621,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:37Z"
@@ -4058,7 +3784,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 10:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 272,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -4153,7 +3879,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Left Wing",
     "category": "korean",
     "subcategory": "韩式脆皮炸鸡",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "1750 Newport Blvd, Costa Mesa, CA 92627, USA",
     "lat": 33.639118599999996,
     "lng": -117.9200694,
@@ -4165,7 +3891,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.1,
     "reviewCount": 31,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4175,9 +3901,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:38Z"
@@ -4188,7 +3914,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Bonchon Costa Mesa",
     "category": "korean",
     "subcategory": "韩式脆皮炸鸡",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "1534 Adams Ave B, Costa Mesa, CA 92626, USA",
     "lat": 33.673642799999996,
     "lng": -117.9210478,
@@ -4200,7 +3926,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.1,
     "reviewCount": 422,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4210,9 +3936,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:38Z"
@@ -4223,7 +3949,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "bb.q Chicken",
     "category": "korean",
     "subcategory": "韩式脆皮炸鸡",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "13681 Newport Ave Unit 10, Tustin, CA 92780, USA",
     "lat": 33.741854599999996,
     "lng": -117.8194223,
@@ -4235,7 +3961,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 243,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4245,9 +3971,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:38Z"
@@ -4338,7 +4064,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 10:00 AM – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 334,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -4363,7 +4089,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Pho Lab Lake Forest",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Lake Forest",
     "address": "22641 Lake Forest Dr Ste B1-2, Lake Forest, CA 92630, USA",
     "lat": 33.6340583,
     "lng": -117.71198040000002,
@@ -4375,7 +4101,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.7,
     "reviewCount": 165,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4385,9 +4111,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4468,7 +4194,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Pho T m Cali",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Lake Forest",
     "address": "24531 Trabuco Rd I, Lake Forest, CA 92630, USA",
     "lat": 33.655622799999996,
     "lng": -117.70152939999998,
@@ -4480,7 +4206,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 175,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4490,44 +4216,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:39Z"
-  },
-  {
-    "id": "google_ChIJsVuQ34sn3YAR-FIL9Ezm5xQ",
-    "name": "越式传统牛肉粉",
-    "enName": "n The Essence of Viet Food   Vietnamese Restaurant",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
-    "address": "9430 Warner Ave #J, Fountain Valley, CA 92708, USA",
-    "lat": 33.7150114,
-    "lng": -117.96421550000001,
-    "phone": "(657) 204-9022",
-    "website": "http://anvietfood.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=1506425818565006072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$",
-    "rating": 4.8,
-    "reviewCount": 56,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4538,7 +4229,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Simply Pho",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Lake Forest",
     "address": "23775 El Toro Rd, Lake Forest, CA 92630, USA",
     "lat": 33.6173438,
     "lng": -117.70564030000001,
@@ -4550,7 +4241,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 843,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4560,9 +4251,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4573,7 +4264,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Pho Ky Dong",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "682 El Camino Real, Tustin, CA 92780, USA",
     "lat": 33.7384421,
     "lng": -117.82483520000001,
@@ -4585,7 +4276,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.6,
     "reviewCount": 55,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4595,9 +4286,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4608,7 +4299,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Ph  B c K  Restaurant",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "14207 Red Hill Ave, Tustin, CA 92780, USA",
     "lat": 33.731693,
     "lng": -117.818165,
@@ -4620,7 +4311,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.3,
     "reviewCount": 539,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4630,9 +4321,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4643,7 +4334,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Mo Pho Mi",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "1525 Mesa Verde Dr E #114, Costa Mesa, CA 92626, USA",
     "lat": 33.669745899999995,
     "lng": -117.92127989999999,
@@ -4655,7 +4346,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.6,
     "reviewCount": 364,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4665,9 +4356,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4678,7 +4369,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Ph  H ng V ng and Grill",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "14182 Newport Ave, Tustin, CA 92780, USA",
     "lat": 33.7359395,
     "lng": -117.82396899999999,
@@ -4690,7 +4381,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.2,
     "reviewCount": 493,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4700,9 +4391,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:39Z"
@@ -4793,7 +4484,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 219,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -4818,7 +4509,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Bangkok Kitchen",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Irvine",
+    "city": "Santa Ana",
     "address": "136 W MacArthur Blvd, Santa Ana, CA 92707, USA",
     "lat": 33.699647399999996,
     "lng": -117.8695303,
@@ -4830,7 +4521,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.6,
     "reviewCount": 364,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4840,9 +4531,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:40Z"
@@ -4853,7 +4544,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Manaao   Thai Comfort Food",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "13842 Newport Ave Unit F, Tustin, CA 92780, USA",
     "lat": 33.7395272,
     "lng": -117.8201067,
@@ -4865,7 +4556,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 598,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4875,9 +4566,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:40Z"
@@ -4888,7 +4579,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "THAI FAVORITE CUISINE",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Irvine",
+    "city": "Tustin",
     "address": "13572 Newport Ave, Tustin, CA 92780, USA",
     "lat": 33.7425813,
     "lng": -117.81686080000001,
@@ -4900,7 +4591,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 448,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4910,9 +4601,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Tustin"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:40Z"
@@ -4923,7 +4614,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Plern Thai Cafe",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Irvine",
+    "city": "Lake Forest",
     "address": "22611 Lake Forest Dr c6, Lake Forest, CA 92630, USA",
     "lat": 33.6344673,
     "lng": -117.7104432,
@@ -4935,7 +4626,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.4,
     "reviewCount": 131,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4945,9 +4636,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:40Z"
@@ -4958,7 +4649,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Hanuman Thai Eatery",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "355 Bristol St Ste U, Costa Mesa, CA 92626, USA",
     "lat": 33.6649046,
     "lng": -117.8804071,
@@ -4970,7 +4661,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 589,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -4980,9 +4671,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:40Z"
@@ -5056,76 +4747,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:40Z"
-  },
-  {
-    "id": "google_ChIJDY996zAp3YARqASOi3dqMC4",
-    "name": "日本生鲜超市",
-    "enName": "Ebisu Life Store",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Irvine",
-    "address": "410 N Euclid St, Anaheim, CA 92801, USA",
-    "lat": 33.8378479,
-    "lng": -117.94123660000001,
-    "phone": "(714) 603-7152",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=3328277186301789352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 297,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:42Z"
-  },
-  {
-    "id": "google_ChIJn-hOH-Tf3IARfccBsPlZ6X4",
-    "name": "亚洲商超",
-    "enName": "Villa Market & Winecafe",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Irvine",
-    "address": "7020 Scholarship, Irvine, CA 92612, USA",
-    "lat": 33.666083199999996,
-    "lng": -117.85319020000001,
-    "phone": "(949) 387-0377",
-    "website": "https://villamarket.square.site/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9144939447287138173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 33,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Irvine"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:42Z"
   },
   {
     "id": "google_ChIJ2-sgbQDd3IARqOs8id6eZvg",
@@ -5213,7 +4834,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:30 AM – 8:30 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 126,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -5388,7 +5009,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 9:00 AM – 7:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 182,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -5493,7 +5114,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 8:00 AM – 8:00 PM",
     "priceLevel": "$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 24,
     "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -5658,7 +5279,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Uncle Fluffy",
     "category": "dessert_tea",
     "subcategory": "日式轻乳酪甜品",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "1870 Harbor Blvd Ste 105, Costa Mesa, CA 92627, USA",
     "lat": 33.642446899999996,
     "lng": -117.91784670000001,
@@ -5670,7 +5291,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.2,
     "reviewCount": 9,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -5680,9 +5301,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:46Z"
@@ -5728,7 +5349,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Yu Cake",
     "category": "dessert_tea",
     "subcategory": "日式轻乳酪甜品",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "3333 Bristol St Ste 1600, Costa Mesa, CA 92626, USA",
     "lat": 33.6899764,
     "lng": -117.88992370000001,
@@ -5740,7 +5361,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 304,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -5750,9 +5371,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:46Z"
@@ -5763,7 +5384,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Heybings Desserts",
     "category": "dessert_tea",
     "subcategory": "日式轻乳酪甜品",
-    "city": "Irvine",
+    "city": "Costa Mesa",
     "address": "1175 Baker St A6, Costa Mesa, CA 92626, USA",
     "lat": 33.6796039,
     "lng": -117.90652329999998,
@@ -5775,7 +5396,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.7,
     "reviewCount": 154,
-    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -5785,9 +5406,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Irvine"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:46Z"
@@ -5948,7 +5569,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:30 AM – 3:00 PM, 5:00 – 9:00 PM",
     "priceLevel": "$$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 35,
     "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -6148,7 +5769,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "China Town Express",
     "category": "chinese",
     "subcategory": "中式料理",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "1730 17th St Ste I, Santa Ana, CA 92705, USA",
     "lat": 33.7584255,
     "lng": -117.8420957,
@@ -6160,7 +5781,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.2,
     "reviewCount": 325,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -6170,9 +5791,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:47Z"
@@ -6228,7 +5849,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 9:00 PM",
     "priceLevel": "$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 227,
     "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -6281,41 +5902,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:47Z"
-  },
-  {
-    "id": "google_ChIJTX0Mykjb3IARqsZPzpht6Ps",
-    "name": "点心水饺",
-    "enName": "Yum Dumpling",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Tustin",
-    "address": "3910 E Chapman Ave, Orange, CA 92869, USA",
-    "lat": 33.787403999999995,
-    "lng": -117.81175300000001,
-    "phone": "(714) 363-3649",
-    "website": "https://www.yumdumplingsca.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=18151878801180575402&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 276,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:49Z"
   },
   {
     "id": "google_ChIJw2X5Pcfb3IARQ90DDiy4mcQ",
@@ -6459,14 +6045,14 @@ export const INITIAL_PLACES: Place[] = [
   },
   {
     "id": "google_ChIJj9rfl-Hb3IARJ-kgjCNbIIw",
-    "name": "藏寿司回转寿司",
-    "enName": "Kura Revolving Sushi Bar",
+    "name": "Kuramoto",
+    "enName": "Kuramoto",
     "category": "japanese",
     "subcategory": "东瀛料理",
     "city": "Tustin",
     "address": "1631 Edinger Ave Ste 108, Tustin, CA 92780, USA",
-    "lat": 33.7214964,
-    "lng": -117.82597729999999,
+    "lat": 33.7214732,
+    "lng": -117.8259115,
     "phone": "(714) 760-4181",
     "website": "http://kuramotoomakase.com/",
     "googleMapsUrl": "https://maps.google.com/?cid=10097170572797602087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6808,117 +6394,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:35:51Z"
   },
   {
-    "id": "google_ChIJPzfKIWjZ3IARpHaWaHhQNXY",
-    "name": "日式拉面",
-    "enName": "Ramen Hub & Sushi   Orange",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Tustin",
-    "address": "595 N Tustin St, Orange, CA 92867, USA",
-    "lat": 33.7967562,
-    "lng": -117.83527439999997,
-    "phone": "(657) 546-9100",
-    "website": "https://ramenhub.order.tryperdiem.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=8517802748322150052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 12:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 187,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:52Z"
-  },
-  {
-    "id": "google_ChIJexq8kmHZ3IARKhgFbYSF3Ao",
-    "name": "日式拉面",
-    "enName": "RAMEN MURA",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Tustin",
-    "address": "130 S Main St G, Orange, CA 92868, USA",
-    "lat": 33.787434399999995,
-    "lng": -117.86754880000001,
-    "phone": "(714) 385-1123",
-    "website": "http://www.ramenmura.us/",
-    "googleMapsUrl": "https://maps.google.com/?cid=782647239066851370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 327,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:52Z"
-  },
-  {
-    "id": "google_ChIJmWJGWUPZ3IARFQwzlZ0yVoU",
-    "name": "日式拉面",
-    "enName": "Hanano Ramen",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Tustin",
-    "address": "161 N Glassell St, Orange, CA 92866, USA",
-    "lat": 33.789325399999996,
-    "lng": -117.85299379999998,
-    "phone": "(714) 639-9536",
-    "website": "http://hananoramenoc.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9607922507435936789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 1914,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:52Z"
-  },
-  {
     "id": "google_ChIJ01I2Kyzf3IARtrQyYlpbSFg",
     "name": "日式拉面",
     "enName": "Gokumi Ramen & Yakitori",
     "category": "japanese",
     "subcategory": "正宗日式拉面",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "2 Hutton Centre Dr #203, Santa Ana, CA 92707, USA",
     "lat": 33.699747099999996,
     "lng": -117.86491849999999,
@@ -6930,7 +6411,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.6,
     "reviewCount": 347,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -6940,9 +6421,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:52Z"
@@ -6953,7 +6434,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Ponzu Japanese Sushi Bar",
     "category": "japanese",
     "subcategory": "精选手握寿司",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "1945 17th St #104, Santa Ana, CA 92705, USA",
     "lat": 33.760898499999996,
     "lng": -117.83892409999999,
@@ -6965,7 +6446,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.6,
     "reviewCount": 353,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -6975,9 +6456,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:53Z"
@@ -7058,7 +6539,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Cham Korean Style Food",
     "category": "korean",
     "subcategory": "韩式嫩豆腐锅",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "1180 S Bristol St Ste 101, Santa Ana, CA 92704, USA",
     "lat": 33.732556599999995,
     "lng": -117.88602519999999,
@@ -7070,7 +6551,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.9,
     "reviewCount": 55,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -7080,9 +6561,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:57Z"
@@ -7093,7 +6574,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Seoul Ramyun   MainPlace Mall",
     "category": "korean",
     "subcategory": "韩式嫩豆腐锅",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "2800 Main St unit 702 ( 2nd floor, Santa Ana, CA 92705, USA",
     "lat": 33.7763908,
     "lng": -117.869975,
@@ -7105,7 +6586,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.8,
     "reviewCount": 16,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -7115,117 +6596,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:57Z"
-  },
-  {
-    "id": "google_ChIJm14Z90op3YARXvJmzxz6Js4",
-    "name": "韩式嫩豆腐锅",
-    "enName": "Ondam Korean Tofu Restaurant",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Tustin",
-    "address": "928 N Euclid St, Anaheim, CA 92801, USA",
-    "lat": 33.845377,
-    "lng": -117.94116100000001,
-    "phone": "(657) 553-2843",
-    "website": "https://www.ondamusa.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14854835422573818462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 5.0,
-    "reviewCount": 30,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:57Z"
-  },
-  {
-    "id": "google_ChIJrWzgnXbJ3IARKfFv8WepYSM",
-    "name": "韩式嫩豆腐锅",
-    "enName": "Top Sot Korean Restaurant     Corona",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Tustin",
-    "address": "510 Hidden Valley Pkwy STE 103, Corona, CA 92879, USA",
-    "lat": 33.899373,
-    "lng": -117.55613629999999,
-    "phone": "(951) 547-4237",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=2549505127965782313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.9,
-    "reviewCount": 27,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:57Z"
-  },
-  {
-    "id": "google_ChIJ0U94lGzX3IARt76tkfSwlO0",
-    "name": "韩式脆皮炸鸡",
-    "enName": "HOLDAAK",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Tustin",
-    "address": "1948 N Tustin St, Orange, CA 92865, USA",
-    "lat": 33.8205209,
-    "lng": -117.83688509999999,
-    "phone": "(714) 363-3453",
-    "website": "http://holdaak.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17119502648004689591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 215,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:58Z"
   },
   {
     "id": "google_ChIJj4YitFHb3IAR5BnEAFNfwLg",
@@ -7245,76 +6621,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 380,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:58Z"
-  },
-  {
-    "id": "google_ChIJ_1MmQMPZ3IARL-nPKQUl3RM",
-    "name": "韩式脆皮炸鸡",
-    "enName": "Chick Flag",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Tustin",
-    "address": "13470 Harbor Blvd, Garden Grove, CA 92843, USA",
-    "lat": 33.767490699999996,
-    "lng": -117.91970539999998,
-    "phone": "(714) 583-8228",
-    "website": "http://www.chickflag.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=1431340960680241455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$",
-    "rating": 4.8,
-    "reviewCount": 105,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:58Z"
-  },
-  {
-    "id": "google_ChIJucUhSwDZ3IARs6Z46cvj66E",
-    "name": "韩式脆皮炸鸡",
-    "enName": "Okaay  Chicken and Sandwich",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Tustin",
-    "address": "356 S Main St, Orange, CA 92868, USA",
-    "lat": 33.7830617,
-    "lng": -117.86792159999999,
-    "phone": "(657) 423-5451",
-    "website": "https://okaaychicken.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=11667669724568266419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:30 AM – 8:00 PM",
-    "priceLevel": "$",
-    "rating": 4.4,
-    "reviewCount": 102,
     "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -7368,47 +6674,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:35:59Z"
   },
   {
-    "id": "google_ChIJ33r-hPXX3IARWpGvSpxnZ1A",
-    "name": "越南牛肉粉",
-    "enName": "Pho 4U",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Tustin",
-    "address": "807 N Tustin St, Orange, CA 92867, USA",
-    "lat": 33.8007145,
-    "lng": -117.8354215,
-    "phone": "(714) 602-6000",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=5793713366601011546&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 12:00 AM",
-    "priceLevel": "$",
-    "rating": 4.7,
-    "reviewCount": 81,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:59Z"
-  },
-  {
     "id": "google_ChIJv9akYYbZ3IAR03Vg4AYG6Ms",
     "name": "越南牛肉粉",
     "enName": "Pho Asian Grill",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "2110 N Tustin Ave, Santa Ana, CA 92705, USA",
     "lat": 33.7653743,
     "lng": -117.8362111,
@@ -7420,7 +6691,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 432,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -7430,44 +6701,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:35:59Z"
-  },
-  {
-    "id": "google_ChIJG_m1Up7X3IAROuWxOD7ilV8",
-    "name": "越南牛肉粉",
-    "enName": "Enjoy Pho",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Tustin",
-    "address": "776 N Tustin St, Orange, CA 92867, USA",
-    "lat": 33.8001766,
-    "lng": -117.8363284,
-    "phone": "(714) 464-6789",
-    "website": "https://enjoypho.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6887659962000074042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$",
-    "rating": 4.5,
-    "reviewCount": 34,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:35:59Z"
@@ -7543,76 +6779,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:00Z"
   },
   {
-    "id": "google_ChIJSxkeoYHb3IARjJwXnINrIvQ",
-    "name": "泰式料理",
-    "enName": "Thai Body Works Tustin",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Tustin",
-    "address": "3536, 13031 Newport Ave Ste 200, Tustin, CA 92780, USA",
-    "lat": 33.7494618,
-    "lng": -117.81192120000001,
-    "phone": "(657) 231-6004",
-    "website": "https://www.thaibodyworks.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17591741307466259596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 81,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:00Z"
-  },
-  {
-    "id": "google_ChIJYy62I8Pb3IARsYo07kK-4dE",
-    "name": "亚洲综合生鲜超市",
-    "enName": "Daiso   Japanese Household Goods",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Tustin",
-    "address": "526 E 1st St, Tustin, CA 92780, USA",
-    "lat": 33.7441685,
-    "lng": -117.81828390000001,
-    "phone": "(714) 382-6086",
-    "website": "https://daisous.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=15123578218360375985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 429,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:01Z"
-  },
-  {
     "id": "google_ChIJ9znydOPb3IAR53CAgc7ajPU",
     "name": "亚洲商超",
     "enName": "Bodega R Ranch Market  12",
@@ -7648,187 +6814,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:01Z"
   },
   {
-    "id": "google_ChIJi7ass8Lb3IARFS_M8Jsyymg",
-    "name": "亚洲综合生鲜超市",
-    "enName": "Tustin Plaza",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Tustin",
-    "address": "13681 Newport Ave, Tustin, CA 92780, USA",
-    "lat": 33.7409787,
-    "lng": -117.82029159999999,
-    "phone": "(714) 832-5672",
-    "website": "https://www.tustinplazaaptsgm.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=7550903370581290773&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 9:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 836,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:01Z"
-  },
-  {
-    "id": "google_ChIJpzwGTufb3IARKekGfpibDaU",
-    "name": "亚洲综合生鲜超市",
-    "enName": "El Camino Plaza",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Tustin",
-    "address": "610 El Camino Real, Tustin, CA 92780, USA",
-    "lat": 33.739180499999996,
-    "lng": -117.8244056,
-    "phone": "",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=11893333270207064361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Open 24 hours",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 582,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:01Z"
-  },
-  {
-    "id": "google_ChIJL5SEexXT3IARjTUMgq1YnzM",
-    "name": "天天买菜",
-    "enName": "AA Fresh Asian Grocery",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Tustin",
-    "address": "18226 Imperial Hwy., Yorba Linda, CA 92886, USA",
-    "lat": 33.8899782,
-    "lng": -117.81589579999998,
-    "phone": "(714) 983-7110",
-    "website": "https://www.aafresh.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3719789319465743757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 16,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:02Z"
-  },
-  {
-    "id": "google_ChIJXQH2kOIn3YAROWsOpGRrT6s",
-    "name": "亚洲商超",
-    "enName": "Dalat Supermarket",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Tustin",
-    "address": "13075 Euclid St, Garden Grove, CA 92843, USA",
-    "lat": 33.7730777,
-    "lng": -117.9387681,
-    "phone": "(714) 638-9900",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=12344203183639128889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 1419,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:02Z"
-  },
-  {
-    "id": "google_ChIJg4r0EXjc3IARIih043jedZ8",
-    "name": "亚洲商超",
-    "enName": "The Market Place",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Tustin",
-    "address": "2961 El Camino Real, Tustin, CA 92782, USA",
-    "lat": 33.7243551,
-    "lng": -117.7913322,
-    "phone": "(714) 730-4124",
-    "website": "https://shopthemarketplace.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=11490334635099170850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 8554,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:02Z"
-  },
-  {
     "id": "google_ChIJVyh7uhLY3IARwTBaFZk1J7I",
     "name": "亚洲商超",
     "enName": "Thanh Long Maria Market",
     "category": "market",
     "subcategory": "华人大型超市",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "12451 Westminster Ave, Santa Ana, CA 92703, USA",
     "lat": 33.7601815,
     "lng": -117.91226660000001,
@@ -7838,9 +6829,9 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 8:00 AM – 7:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 201,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -7850,82 +6841,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:02Z"
-  },
-  {
-    "id": "google_ChIJnXYqGwDd3IARSIDTdvnP2dI",
-    "name": "日本生鲜超市",
-    "enName": "Miniso",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Tustin",
-    "address": "2891 El Camino Real, Tustin, CA 92782, USA",
-    "lat": 33.7258626,
-    "lng": -117.79189499999998,
-    "phone": "",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=15193403488258457672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 3.8,
-    "reviewCount": 34,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:03Z"
-  },
-  {
-    "id": "google_ChIJxaQwXgvT3IARJiTuJoGz3OU",
-    "name": "东京中央日本超市",
-    "enName": "Tokyo Central",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Tustin",
-    "address": "18171 Imperial Hwy., Yorba Linda, CA 92886, USA",
-    "lat": 33.8921077,
-    "lng": -117.81634549999998,
-    "phone": "(714) 386-5110",
-    "website": "https://tokyocentral.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16563310896847135782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 2091,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:03Z"
   },
   {
     "id": "google_ChIJC6v6PMfb3IAR_4G1hBgfCa8",
@@ -7961,216 +6882,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:03Z"
-  },
-  {
-    "id": "google_ChIJATVrwsDb3IARvP053-x399A",
-    "name": "韩国生鲜超市",
-    "enName": "Tustin Heights Shopping Center",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Tustin",
-    "address": "1198 Irvine Blvd, Tustin, CA 92780, USA",
-    "lat": 33.7470899,
-    "lng": -117.80970909999999,
-    "phone": "(833) 800-4343",
-    "website": "https://www.kimcorealty.com/properties/tustin-heights-sc/114340/view",
-    "googleMapsUrl": "https://maps.google.com/?cid=15057635738377649596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 794,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
-  },
-  {
-    "id": "google_ChIJg5IsNhbb3IARR7xYRxQoDbQ",
-    "name": "韩国生鲜超市",
-    "enName": "Larwin Square",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Tustin",
-    "address": "630 E 1st St, Tustin, CA 92780, USA",
-    "lat": 33.7444655,
-    "lng": -117.8168981,
-    "phone": "(833) 800-4343",
-    "website": "https://www.kimcorealty.com/properties/larwin-square-sc/114200/view",
-    "googleMapsUrl": "https://maps.google.com/?cid=12974070169085721671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 1003,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
-  },
-  {
-    "id": "google_ChIJjcUioYgo3YARjXCNBTJZkt4",
-    "name": "H Mart 韩国生鲜超市",
-    "enName": "H Mart",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Tustin",
-    "address": "8911 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.774862299999995,
-    "lng": -117.9764404,
-    "phone": "(714) 534-4113",
-    "website": "https://www.hmart.com/storelocator/index/index/id/12/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16037979294396149901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 3151,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
-  },
-  {
-    "id": "google_ChIJcaECbQAn3YAR8M11HCJF82k",
-    "name": "H Mart 韩国生鲜超市",
-    "enName": "H Mart",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Tustin",
-    "address": "16450 Beach Blvd, Westminster, CA 92683, USA",
-    "lat": 33.7245827,
-    "lng": -117.9877225,
-    "phone": "(714) 845-0001",
-    "website": "http://hmart.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=7634521806131809776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 265,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
-  },
-  {
-    "id": "google_ChIJBVVt3M7Z3IARJ6df5O1VA5c",
-    "name": "韩国生鲜超市",
-    "enName": "MainPlace Mall",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Tustin",
-    "address": "2800 N Main St, Santa Ana, CA 92705, USA",
-    "lat": 33.774052999999995,
-    "lng": -117.8693764,
-    "phone": "(714) 559-6525",
-    "website": "http://shopmainplacemall.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10881635604884334375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 10306,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
-  },
-  {
-    "id": "google_ChIJwd7XiHso3YARhAn5CaxgC-g",
-    "name": "韩国生鲜超市",
-    "enName": "Korea Plaza",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Tustin",
-    "address": "9580 Garden Grove Blvd #1514, Garden Grove, CA 92844, USA",
-    "lat": 33.773026,
-    "lng": -117.9653747,
-    "phone": "(714) 539-2702",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=16720564333561055620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 1210,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
   },
   {
     "id": "google_ChIJHy2yOBDb3IARIzXvkBvAvXs",
@@ -8248,7 +6959,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Tea Maru   Housemade Boba",
     "category": "dessert_tea",
     "subcategory": "新式原叶茶饮",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "1951 E Dyer Rd Unit G, Santa Ana, CA 92705, USA",
     "lat": 33.7070247,
     "lng": -117.84486679999999,
@@ -8260,7 +6971,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 3.7,
     "reviewCount": 43,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -8270,9 +6981,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:04Z"
@@ -8313,47 +7024,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:04Z"
   },
   {
-    "id": "google_ChIJQ-74oJPb3IAROqBPZm_mcYU",
-    "name": "新式原叶茶饮",
-    "enName": "Bloom and Brew",
-    "category": "dessert_tea",
-    "subcategory": "新式原叶茶饮",
-    "city": "Tustin",
-    "address": "3338 E Chapman Ave # E, Orange, CA 92869, USA",
-    "lat": 33.7871648,
-    "lng": -117.8177707,
-    "phone": "(714) 941-9505",
-    "website": "http://bloom-and-brew-106389.square.site/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9615720045544972346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 117,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:04Z"
-  },
-  {
     "id": "google_ChIJCwnLaITZ3IAR6q6814ixEe8",
     "name": "原叶茶饮",
     "enName": "Boba Harmony",
     "category": "dessert_tea",
     "subcategory": "新式原叶茶饮",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "Food Court, 2800 N Main St Unit 572, Santa Ana, CA 92705, USA",
     "lat": 33.775016,
     "lng": -117.87097750000001,
@@ -8365,7 +7041,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.9,
     "reviewCount": 90,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -8375,9 +7051,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:04Z"
@@ -8388,7 +7064,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "BAKO TEA HOUSE",
     "category": "dessert_tea",
     "subcategory": "新式原叶茶饮",
-    "city": "Tustin",
+    "city": "Santa Ana",
     "address": "31 E Macarthur Cres #106b, Santa Ana, CA 92707, USA",
     "lat": 33.7011458,
     "lng": -117.866435,
@@ -8400,7 +7076,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 174,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -8410,9 +7086,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Tustin"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:04Z"
@@ -8451,76 +7127,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:05Z"
-  },
-  {
-    "id": "google_ChIJS0QgtD8h3YARh7NIZpHffOg",
-    "name": "日式轻乳酪甜品",
-    "enName": "Uncle Fluffy",
-    "category": "dessert_tea",
-    "subcategory": "日式轻乳酪甜品",
-    "city": "Tustin",
-    "address": "120 5th St Ste C120, Huntington Beach, CA 92648, USA",
-    "lat": 33.657823799999996,
-    "lng": -118.0024603,
-    "phone": "(714) 274-9557",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=16752510529490695047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 33,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:06Z"
-  },
-  {
-    "id": "google_ChIJMWbria3X3IAR_tgEV7LYoS4",
-    "name": "烘焙工坊",
-    "enName": "Okayama Kobo Bakery & Cafe",
-    "category": "dessert_tea",
-    "subcategory": "日式轻乳酪甜品",
-    "city": "Tustin",
-    "address": "155 W Center Street Promenade, Anaheim, CA 92805, USA",
-    "lat": 33.8342741,
-    "lng": -117.9148506,
-    "phone": "(714) 603-7332",
-    "website": "http://www.okayamakobousa.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3360205057470814462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 887,
-    "parkingInfo": "Tustin 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Tustin"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Tustin 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:06Z"
   },
   {
     "id": "google_ChIJTyUJD3Pb3IARiPcpkwnIZJo",
@@ -8678,7 +7284,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 2:00 AM",
     "priceLevel": "$",
-    "rating": 3.0,
+    "rating": 3,
     "reviewCount": 183,
     "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -8748,7 +7354,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: Closed",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 55,
     "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -8808,7 +7414,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Mimi Garden",
     "category": "chinese",
     "subcategory": "中式料理",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "3142 W Balboa Blvd, Newport Beach, CA 92663, USA",
     "lat": 33.6145188,
     "lng": -117.93177269999998,
@@ -8820,7 +7426,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.8,
     "reviewCount": 74,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -8830,9 +7436,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:07Z"
@@ -8913,7 +7519,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Ho Sum Bistro",
     "category": "chinese",
     "subcategory": "中式料理",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "3112 Newport Blvd, Newport Beach, CA 92663, USA",
     "lat": 33.6158064,
     "lng": -117.93025489999998,
@@ -8925,7 +7531,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.4,
     "reviewCount": 351,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -8935,44 +7541,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:07Z"
-  },
-  {
-    "id": "google_ChIJT1x_TTEn3YARsCbJ__B9MTU",
-    "name": "中式料理",
-    "enName": "Lucky Chinese Food",
-    "category": "chinese",
-    "subcategory": "中式料理",
-    "city": "Costa Mesa",
-    "address": "18525 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.693601,
-    "lng": -117.95469270000001,
-    "phone": "(714) 962-4221",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=3832983231905998512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$",
-    "rating": 4.4,
-    "reviewCount": 883,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:07Z"
@@ -8983,7 +7554,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Starfish",
     "category": "chinese",
     "subcategory": "中式料理",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "191 Riverside Ave, Newport Beach, CA 92659, USA",
     "lat": 33.621585599999996,
     "lng": -117.92384750000001,
@@ -8995,7 +7566,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 148,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -9005,9 +7576,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:07Z"
@@ -9018,7 +7589,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Tasty Zone",
     "category": "chinese",
     "subcategory": "正宗川菜",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3930 S Bristol St, Santa Ana, CA 92704, USA",
     "lat": 33.6950269,
     "lng": -117.8858906,
@@ -9030,7 +7601,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.1,
     "reviewCount": 370,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -9040,362 +7611,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:08Z"
-  },
-  {
-    "id": "google_ChIJ2VMlzcAn3YARCfEbu_f8pIo",
-    "name": "玲珑",
-    "enName": "Linglong Soup Dumplings",
-    "category": "chinese",
-    "subcategory": "正宗川菜",
-    "city": "Costa Mesa",
-    "address": "18420 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.6953082,
-    "lng": -117.95309379999999,
-    "phone": "(949) 992-8058",
-    "website": "http://www.linglongoc.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9990388014340894985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 116,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:08Z"
-  },
-  {
-    "id": "google_ChIJHzZG13on3YAReMSSeCVDzCw",
-    "name": "正宗川菜",
-    "enName": "QUA Contemporary Chinese Cuisine",
-    "category": "chinese",
-    "subcategory": "正宗川菜",
-    "city": "Costa Mesa",
-    "address": "16121 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.728463,
-    "lng": -117.9563589,
-    "phone": "(657) 300-8391",
-    "website": "https://www.keiconcepts.info/brands/qua",
-    "googleMapsUrl": "https://maps.google.com/?cid=3228028861133538424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 143,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:08Z"
-  },
-  {
-    "id": "google_ChIJdbCq5son3YAR7xZG8fUiDH0",
-    "name": "火锅串串",
-    "enName": "HOT°C POT",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "11095 Warner Ave, Fountain Valley, CA 92708, USA",
-    "lat": 33.7167099,
-    "lng": -117.93530120000001,
-    "phone": "(714) 227-2544",
-    "website": "http://www.hotc.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9010615394171754223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 1:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 225,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJ4bECzXYn3YARR5UqpSVRJ50",
-    "name": "鲜味火锅",
-    "enName": "Aura Sushi and Hot Pot",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "16871 Beach Blvd, Huntington Beach, CA 92647, USA",
-    "lat": 33.7171594,
-    "lng": -117.9896927,
-    "phone": "(657) 204-9378",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=11324109010173072711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 43,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJJUQWQNon3YARaxZPlyj0HYE",
-    "name": "鲜味火锅",
-    "enName": "8HotPot & Grill Ayce",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "8526 Westminster Blvd. A, Westminster, CA 92683, USA",
-    "lat": 33.757915,
-    "lng": -117.9796845,
-    "phone": "(714) 929-9662",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=9303860860391724651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 40,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJV5IcIWYp3YAR4VopEFL57zU",
-    "name": "火锅串串",
-    "enName": "B  no Nabe",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "9738 Garden Grove Blvd #2, Garden Grove, CA 92844, USA",
-    "lat": 33.7732696,
-    "lng": -117.96283720000001,
-    "phone": "(714) 462-2007",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=3886599134297807585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:30 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 157,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJjVHk7xcp3YARqGzibqsHu48",
-    "name": "鲜味火锅",
-    "enName": "Ufoodie Hot Pot",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "614 S Brookhurst St, Anaheim, CA 92804, USA",
-    "lat": 33.8239406,
-    "lng": -117.95805809999999,
-    "phone": "(714) 414-7123",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=10356880200949722280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 PM – 12:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 111,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJ2SS8UgAn3YARk2Hqg-Y0sFU",
-    "name": "快乐小羊",
-    "enName": "Happy Lamb Hot Pot  Westminster",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "16310 Beach Blvd, Westminster, CA 92683, USA",
-    "lat": 33.7262,
-    "lng": -117.9881254,
-    "phone": "(714) 465-9009",
-    "website": "https://happylambhotpot.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6174493253785248147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 3:00 PM, 4:30 – 9:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 112,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJE8M6fKQn3YAR4QtDcVyXyq8",
-    "name": "鲜味火锅",
-    "enName": "Hot Pot City",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Costa Mesa",
-    "address": "15606 Brookhurst St Ste E, Westminster, CA 92683, USA",
-    "lat": 33.736382,
-    "lng": -117.953779,
-    "phone": "(714) 531-5402",
-    "website": "http://www.hotpotcitybbq.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12667103325225946081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 199,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:09Z"
-  },
-  {
-    "id": "google_ChIJOf_vZSsm3YARs2Xyndt8DpY",
-    "name": "粤式早茶点心",
-    "enName": "The Dim Sum Co.",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Costa Mesa",
-    "address": "8900 Westminster Blvd., Westminster, CA 92683, USA",
-    "lat": 33.7590437,
-    "lng": -117.97393360000001,
-    "phone": "",
-    "website": "http://www.thedimsumco.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10812717038052730291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 5:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 748,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:10Z"
   },
   {
     "id": "google_ChIJhY9OAkbf3IARkYl9Ec-WB9I",
@@ -10033,7 +8254,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Kokiyo",
     "category": "japanese",
     "subcategory": "正宗日式拉面",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "4525 West Coast Hwy Unit A, Newport Beach, CA 92663, USA",
     "lat": 33.6218608,
     "lng": -117.9379622,
@@ -10045,7 +8266,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.9,
     "reviewCount": 939,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -10055,79 +8276,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:13Z"
-  },
-  {
-    "id": "google_ChIJYd8E_nkn3YARsK_OBBkrIsk",
-    "name": "日式拉面",
-    "enName": "KIN Craft Ramen & Izakaya",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Costa Mesa",
-    "address": "16185 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.7274491,
-    "lng": -117.955402,
-    "phone": "(949) 688-6961",
-    "website": "https://www.keiconcepts.info/brands/kin",
-    "googleMapsUrl": "https://maps.google.com/?cid=14493193937286508464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 11:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 473,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:13Z"
-  },
-  {
-    "id": "google_ChIJ93pCsTAn3YARYnvc3DKUUkk",
-    "name": "新撰组博多拉面",
-    "enName": "Shin-Sen-Gumi",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Costa Mesa",
-    "address": "18315 Brookhurst St #1, Fountain Valley, CA 92708, USA",
-    "lat": 33.6959983,
-    "lng": -117.9547874,
-    "phone": "(714) 962-8971",
-    "website": "http://www.shinsengumigroup.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=5283448259033725794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 3:00 PM, 6:00 – 11:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 1259,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:13Z"
@@ -10343,41 +8494,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:15Z"
   },
   {
-    "id": "google_ChIJZwBEQAAh3YAR6wltLurw9G0",
-    "name": "日式居酒屋",
-    "enName": "APPE Izakaya",
-    "category": "japanese",
-    "subcategory": "日式居酒屋",
-    "city": "Costa Mesa",
-    "address": "200 Main St #109, Huntington Beach, CA 92648, USA",
-    "lat": 33.658453699999995,
-    "lng": -118.00042979999999,
-    "phone": "(657) 301-2545",
-    "website": "https://www.appeizakaya.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=7923222533043456491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 48,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:16Z"
-  },
-  {
     "id": "google_ChIJ7WqkNRHf3IARkc3wZFOvYQM",
     "name": "bb.q Chicken 韩式炸鸡",
     "enName": "bb.q Chicken",
@@ -10418,7 +8534,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Wang Cho BBQ All You Can Eat",
     "category": "korean",
     "subcategory": "正宗韩式烤肉",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3608 S Bristol St, Santa Ana, CA 92704, USA",
     "lat": 33.699107999999995,
     "lng": -117.88646389999998,
@@ -10430,7 +8546,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.4,
     "reviewCount": 1288,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -10440,79 +8556,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:17Z"
-  },
-  {
-    "id": "google_ChIJpw5Po4En3YARFsHNXzkckUI",
-    "name": "正宗韩式烤肉",
-    "enName": "Bon Tofu & Grill  Korean Cuisine",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Costa Mesa",
-    "address": "17900 Magnolia St A, Fountain Valley, CA 92708, USA",
-    "lat": 33.7027992,
-    "lng": -117.97134880000002,
-    "phone": "(714) 377-7090",
-    "website": "http://www.bontofu.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4796646110872322326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 178,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:17Z"
-  },
-  {
-    "id": "google_ChIJp4OypAnZ3IARkq3scUEZWcQ",
-    "name": "正宗韩式烤肉",
-    "enName": "Dawa kitchen",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Costa Mesa",
-    "address": "12506 Westminster Ave, Garden Grove, CA 92843, USA",
-    "lat": 33.7593235,
-    "lng": -117.9113294,
-    "phone": "(714) 714-0399",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=14148367473236028818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 158,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:17Z"
@@ -10533,43 +8579,8 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: Closed",
     "priceLevel": "$$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 2,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:17Z"
-  },
-  {
-    "id": "google_ChIJFSY6c1Qn3YARSm6bu-z5q4Q",
-    "name": "bb.q Chicken 韩式炸鸡",
-    "enName": "bb.q Chicken",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Costa Mesa",
-    "address": "18639 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.6921891,
-    "lng": -117.9546241,
-    "phone": "(714) 594-3228",
-    "website": "https://bbqchicken.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9560009429179133514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 260,
     "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -10728,41 +8739,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:19Z"
   },
   {
-    "id": "google_ChIJwdmlFwAn3YARxOrKFXlP7nQ",
-    "name": "越南牛肉粉",
-    "enName": "Pho Ha Noi FV",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "18380 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.6957929,
-    "lng": -117.95379620000001,
-    "phone": "(657) 204-9907",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=8425759334332033732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$",
-    "rating": 4.2,
-    "reviewCount": 78,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
     "id": "google_ChIJ2WMW1Rvf3IARzf89nzxpuAA",
     "name": "越式传统牛肉粉",
     "enName": "East Borough",
@@ -10798,222 +8774,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:19Z"
   },
   {
-    "id": "google_ChIJ1162rxcn3YARltGueVJEShc",
-    "name": "越南牛肉粉",
-    "enName": "Pho Nic",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "17860 Newhope St #106, Fountain Valley, CA 92708, USA",
-    "lat": 33.7043098,
-    "lng": -117.93332869999998,
-    "phone": "(714) 760-4734",
-    "website": "https://pho-nic.curated.menu/1/695cf142d8333ef8f327477f",
-    "googleMapsUrl": "https://maps.google.com/?cid=1678228932168438166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$",
-    "rating": 4.6,
-    "reviewCount": 267,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJOViFqo4n3YARwbbqPpA8buc",
-    "name": "越南牛肉粉",
-    "enName": "Simply Pho Noodle House",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "18279 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.6976255,
-    "lng": -117.95469270000001,
-    "phone": "(657) 259-0088",
-    "website": "https://www.simplyphonoodles.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16676333060428052161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$",
-    "rating": 4.8,
-    "reviewCount": 134,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJsV9-MgAn3YAR1b2z7pQmDYM",
-    "name": "越南牛肉粉",
-    "enName": "Pho VH",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "18041 Magnolia St, Fountain Valley, CA 92708, USA",
-    "lat": 33.7005664,
-    "lng": -117.97292209999999,
-    "phone": "(657) 899-6789",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=9443246414767570389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 9:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 173,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJN-yl3k4n3YARf5IwVZFbHq4",
-    "name": "越南牛肉粉",
-    "enName": "Pho Flavor Fountain Valley",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "16027 Brookhurst St # F, Fountain Valley, CA 92708, USA",
-    "lat": 33.7300739,
-    "lng": -117.95584660000002,
-    "phone": "(657) 218-4883",
-    "website": "https://www.phoflavor.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12546566291658412671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$",
-    "rating": 4.7,
-    "reviewCount": 235,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJBZO3H_An3YARmmnewdDJBRs",
-    "name": "越南牛肉粉",
-    "enName": "Pholuscious",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "8162 Talbert Ave #104, Huntington Beach, CA 92646, USA",
-    "lat": 33.7009015,
-    "lng": -117.9867546,
-    "phone": "(657) 204-9868",
-    "website": "https://qrco.de/bf5RLL",
-    "googleMapsUrl": "https://maps.google.com/?cid=1947184312350566810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 12:00 AM",
-    "priceLevel": "$",
-    "rating": 4.7,
-    "reviewCount": 192,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJS1Q29hkn3YARflwcjNtwXMU",
-    "name": "越南牛肉粉",
-    "enName": "Pho Lab",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "8112 Talbert Ave #104, Huntington Beach, CA 92646, USA",
-    "lat": 33.7008444,
-    "lng": -117.98748189999998,
-    "phone": "(714) 594-3879",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=14221365811580001406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 12:00 AM",
-    "priceLevel": "$",
-    "rating": 4.7,
-    "reviewCount": 412,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
     "id": "google_ChIJUzo3OknZ3IARq5oS5itNlAs",
     "name": "越式传统牛肉粉",
     "enName": "Nguyen's Kitchen",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3751 S Harbor Blvd # F, Santa Ana, CA 92704, USA",
     "lat": 33.6964156,
     "lng": -117.91879180000001,
@@ -11025,7 +8791,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.3,
     "reviewCount": 153,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11035,9 +8801,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:19Z"
@@ -11048,7 +8814,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Ph  Crystal Noodle House",
     "category": "southeast",
     "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3037 S Bristol St, Santa Ana, CA 92704, USA",
     "lat": 33.706838,
     "lng": -117.88492599999998,
@@ -11060,7 +8826,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 456,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11070,82 +8836,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJESMogTkn3YARQ9u7RXmhSIc",
-    "name": "越式传统牛肉粉",
-    "enName": "Ph  B nh M  & Ch  Cali",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Costa Mesa",
-    "address": "18122 Brookhurst St, Fountain Valley, CA 92708, USA",
-    "lat": 33.7000585,
-    "lng": -117.95396059999999,
-    "phone": "(714) 593-6300",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=9748218935676492611&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:00 AM – 8:00 PM",
-    "priceLevel": "$",
-    "rating": 4.0,
-    "reviewCount": 758,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:19Z"
-  },
-  {
-    "id": "google_ChIJmW6u9bsn3YAR0xf5TrEm6Dk",
-    "name": "泰式料理",
-    "enName": "THAI STATION",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
-    "address": "10585 Slater Ave #4a, Fountain Valley, CA 92708, USA",
-    "lat": 33.7096203,
-    "lng": -117.94416749999999,
-    "phone": "(714) 580-3010",
-    "website": "https://thethaistation.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4172627597734778835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 88,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
   },
   {
     "id": "google_ChIJy5Myx6Mh3YARHWGlLbJABaw",
@@ -11153,7 +8849,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Zabb Thai Cuisine",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "4001 West Coast Hwy, Newport Beach, CA 92663, USA",
     "lat": 33.6214282,
     "lng": -117.93385780000001,
@@ -11165,7 +8861,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.7,
     "reviewCount": 706,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11175,9 +8871,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:21Z"
@@ -11200,41 +8896,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 290,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
-    "id": "google_ChIJPXr5kNzf3IARdDuhTaNGEYY",
-    "name": "泰式料理",
-    "enName": "Thai Combination Massage",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
-    "address": "1673 Irvine Ave Unit C-D, Costa Mesa, CA 92627, USA",
-    "lat": 33.6277843,
-    "lng": -117.90983309999999,
-    "phone": "(949) 849-8668",
-    "website": "https://thaicombinationmassage.favesalon.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9660580342882450292&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 5.0,
-    "reviewCount": 33,
     "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -11288,152 +8949,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:21Z"
   },
   {
-    "id": "google_ChIJW1WPVI_f3IAR7rxw70Nf3e8",
-    "name": "泰式料理",
-    "enName": "Thiptara Thai Massage & Spa",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
-    "address": "1932 Harbor Blvd, Costa Mesa, CA 92627, USA",
-    "lat": 33.644552,
-    "lng": -117.918641,
-    "phone": "(949) 722-9111",
-    "website": "http://thiptaramassage.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17284075690302422254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 83,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
-    "id": "google_ChIJt4pX9Izf3IAR2FLi5i9esTQ",
-    "name": "泰式料理",
-    "enName": "The Thai Rose Massage Spa",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
-    "address": "1755 Orange Ave F, Costa Mesa, CA 92627, USA",
-    "lat": 33.637158899999996,
-    "lng": -117.91755649999999,
-    "phone": "(949) 631-6885",
-    "website": "https://www.thethairosemassage.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3796919520680104664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 77,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
-    "id": "google_ChIJuXV7RAAh3YARsC8LPkiyTac",
-    "name": "泰式料理",
-    "enName": "Mama on main Thai house",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
-    "address": "301 Main St #107, Huntington Beach, CA 92648, USA",
-    "lat": 33.6596032,
-    "lng": -117.99994769999999,
-    "phone": "(714) 274-9723",
-    "website": "http://www.mamaonmain.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12055487800888995760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 3:00 PM, 4:30 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 183,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
-    "id": "google_ChIJj8DjESQh3YARTrCaH2OiBxA",
-    "name": "泰式料理",
-    "enName": "Siam Station Thai Street Food",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
-    "address": "2727 Newport Blvd #302, Newport Beach, CA 92663, USA",
-    "lat": 33.612525999999995,
-    "lng": -117.93004300000001,
-    "phone": "(949) 283-6928",
-    "website": "https://siamstationthaistfood.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=1155070376059514958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 3:00 PM, 4:30 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 92,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
     "id": "google_ChIJ6R0aZmvg3IAR70zGqpElrJE",
     "name": "泰式料理",
     "enName": "Mint Leaf Thai Cuisine",
     "category": "southeast",
     "subcategory": "正宗泰式风味",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "712 E Balboa Blvd, Newport Beach, CA 92661, USA",
     "lat": 33.6022222,
     "lng": -117.89972220000001,
@@ -11445,7 +8966,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 451,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11455,44 +8976,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
-    "id": "google_ChIJvdsQORsn3YARBqndnN41NI4",
-    "name": "亚洲商超",
-    "enName": "Mekong Supermarket  formerly Sunrise Supermarket",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Costa Mesa",
-    "address": "9380 Warner Ave, Fountain Valley, CA 92708, USA",
-    "lat": 33.7153805,
-    "lng": -117.96517529999998,
-    "phone": "(714) 369-2425",
-    "website": "http://sunrisesupermarket.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10246874282405505286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 318,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:21Z"
@@ -11505,8 +8991,8 @@ export const INITIAL_PLACES: Place[] = [
     "subcategory": "亚洲综合生鲜超市",
     "city": "Costa Mesa",
     "address": "2300 Harbor Blvd, Costa Mesa, CA 92626, USA",
-    "lat": 33.656866199999996,
-    "lng": -117.9172009,
+    "lat": 33.6569759,
+    "lng": -117.9171028,
     "phone": "(949) 373-3109",
     "website": "https://www.northgatemarket.com/",
     "googleMapsUrl": "https://maps.google.com/?cid=16293828261667581004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -11533,47 +9019,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:21Z"
   },
   {
-    "id": "google_ChIJs0mxNEcm3YARrsEdEgh0UXk",
-    "name": "亚洲综合生鲜超市",
-    "enName": "Shun Fat Westminster Superstore Thu n Ph t",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Costa Mesa",
-    "address": "15440 Beach Blvd #123, Westminster, CA 92683, USA",
-    "lat": 33.7384997,
-    "lng": -117.9881344,
-    "phone": "(714) 891-6288",
-    "website": "http://www.shunfatsupermarket.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=8741895929715343790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 1805,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:21Z"
-  },
-  {
     "id": "google_ChIJBxMijbTY3IARCHpv2SjS_OY",
     "name": "亚洲商超",
     "enName": "Super King Markets",
     "category": "market",
     "subcategory": "华人大型超市",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "2741 W MacArthur Blvd, Santa Ana, CA 92704, USA",
     "lat": 33.7013695,
     "lng": -117.90567650000001,
@@ -11585,7 +9036,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 2777,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11595,222 +9046,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:22Z"
-  },
-  {
-    "id": "google_ChIJlyUttfwn3YAR2afxOok0MU0",
-    "name": "韩国生鲜超市",
-    "enName": "HN Mart Store",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Costa Mesa",
-    "address": "16459 Magnolia St, Westminster, CA 92683, USA",
-    "lat": 33.723638099999995,
-    "lng": -117.97242410000001,
-    "phone": "(657) 845-4001",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=5562284778783352793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 6:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 15,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
-  },
-  {
-    "id": "google_ChIJzfO6mrUn3YARc0DquZ-VpVs",
-    "name": "韩国生鲜超市",
-    "enName": "Asian Garden Mall",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Costa Mesa",
-    "address": "9200 Bolsa Ave, Westminster, CA 92683, USA",
-    "lat": 33.7441556,
-    "lng": -117.96867149999999,
-    "phone": "(714) 842-8018",
-    "website": "https://www.asiangardenmall.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6603848941860175987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 7:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 2981,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
-  },
-  {
-    "id": "google_ChIJCyDHJSXf3IAR2DBM02jy2dE",
-    "name": "韩国生鲜超市",
-    "enName": "South Coast Plaza",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Costa Mesa",
-    "address": "3333 Bristol St, Costa Mesa, CA 92626, USA",
-    "lat": 33.691002999999995,
-    "lng": -117.8889767,
-    "phone": "(714) 435-2000",
-    "website": "http://www.southcoastplaza.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=15121383755908657368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 16379,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
-  },
-  {
-    "id": "google_ChIJeQrH9rst3YARpALGsPeeTjQ",
-    "name": "H Mart 韩国生鲜超市",
-    "enName": "H Mart",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Costa Mesa",
-    "address": "20137 Pioneer Blvd H Mart, Lakewood, CA 90715, USA",
-    "lat": 33.8470753,
-    "lng": -118.0826962,
-    "phone": "(562) 303-9810",
-    "website": "http://www.hmart.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3769124724815561380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 3258,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
-  },
-  {
-    "id": "google_ChIJEVZry3Qr3YARXKCwqVME7yc",
-    "name": "H Mart 韩国生鲜超市",
-    "enName": "H Mart",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Costa Mesa",
-    "address": "5111 Beach Blvd, Buena Park, CA 90621, USA",
-    "lat": 33.886492,
-    "lng": -117.99519269999999,
-    "phone": "(714) 249-7070",
-    "website": "https://www.hmart.com/store/buena-park-ca-90621/b9c4d907-0678-4023-a6ba-6e8deb49b602",
-    "googleMapsUrl": "https://maps.google.com/?cid=2877523444288757852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 3542,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
-  },
-  {
-    "id": "google_ChIJSbRq1BBL3YAR63fKrXuMYTg",
-    "name": "H Mart 韩国生鲜超市",
-    "enName": "H Mart",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Costa Mesa",
-    "address": "4340 Pacific Coast Hwy, Torrance, CA 90505, USA",
-    "lat": 33.8078198,
-    "lng": -118.36052579999999,
-    "phone": "(310) 974-6880",
-    "website": "https://www.hmart.com/store/torrance-ca-90505/ee273721-54ef-400e-aee9-1e6e9be41fd0?has_food_court=true&message=",
-    "googleMapsUrl": "https://maps.google.com/?cid=4062682801689491435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 2081,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
   },
   {
     "id": "google_ChIJh9qK1H3f3IARfZ1hjbALy3A",
@@ -11923,7 +9164,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Wushiland Boba   South Coast",
     "category": "dessert_tea",
     "subcategory": "新式原叶茶饮",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3851 S Bristol St, Santa Ana, CA 92704, USA",
     "lat": 33.696521,
     "lng": -117.8843089,
@@ -11935,7 +9176,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 49,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11945,9 +9186,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:25Z"
@@ -11958,7 +9199,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Boba Tea Planets",
     "category": "dessert_tea",
     "subcategory": "新式原叶茶饮",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3941 S Bristol St Ste D, Santa Ana, CA 92704, USA",
     "lat": 33.6947405,
     "lng": -117.88391130000001,
@@ -11970,7 +9211,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.3,
     "reviewCount": 97,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -11980,9 +9221,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:25Z"
@@ -12023,41 +9264,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:25Z"
   },
   {
-    "id": "google_ChIJySg-fVUn3YARyAHtju4_dMo",
-    "name": "原叶茶饮",
-    "enName": "Boba Junkie   Fountain Valley",
-    "category": "dessert_tea",
-    "subcategory": "新式原叶茶饮",
-    "city": "Costa Mesa",
-    "address": "18279 Brookhurst St #2, Fountain Valley, CA 92708, USA",
-    "lat": 33.6975039,
-    "lng": -117.95528879999999,
-    "phone": "(657) 301-2500",
-    "website": "https://www.bobajunkie.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14588355386792542664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 59,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:25Z"
-  },
-  {
     "id": "google_ChIJu7szjP7f3IARvNaPkIXmFtw",
     "name": "烘焙工坊",
     "enName": "Borouge Bakery Cafe   Costa Mesa  CA",
@@ -12073,7 +9279,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: Closed",
     "priceLevel": "$$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 107,
     "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -12133,7 +9339,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Little France Coffee & Bakery",
     "category": "dessert_tea",
     "subcategory": "手作烘焙面包",
-    "city": "Costa Mesa",
+    "city": "Newport Beach",
     "address": "1735 Westcliff Dr, Newport Beach, CA 92660, USA",
     "lat": 33.6263198,
     "lng": -117.90639069999997,
@@ -12145,7 +9351,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.8,
     "reviewCount": 284,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -12155,9 +9361,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Newport Beach"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:27Z"
@@ -12203,7 +9409,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "BAKERY 101",
     "category": "dessert_tea",
     "subcategory": "日式轻乳酪甜品",
-    "city": "Costa Mesa",
+    "city": "Santa Ana",
     "address": "3388 S Bristol St #B, Santa Ana, CA 92704, USA",
     "lat": 33.7018455,
     "lng": -117.88679,
@@ -12215,7 +9421,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.8,
     "reviewCount": 116,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -12225,44 +9431,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Costa Mesa"
+      "Santa Ana"
     ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:28Z"
-  },
-  {
-    "id": "google_ChIJ1Rrf4bLZ3IARKmohLLb1jsc",
-    "name": "日式轻乳酪甜品",
-    "enName": "Cream Pan",
-    "category": "dessert_tea",
-    "subcategory": "日式轻乳酪甜品",
-    "city": "Costa Mesa",
-    "address": "15945 Harbor Blvd, Fountain Valley, CA 92708, USA",
-    "lat": 33.7317866,
-    "lng": -117.92036360000002,
-    "phone": "(714) 760-4854",
-    "website": "https://creampan.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14379700823013812778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 AM – 7:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 835,
-    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Costa Mesa"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:28Z"
@@ -12285,41 +9456,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.3,
     "reviewCount": 227,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:29Z"
-  },
-  {
-    "id": "google_ChIJXZ4aT4bg3IAR5zDTI8DIBuM",
-    "name": "中式料理",
-    "enName": "P.F. Chang's",
-    "category": "chinese",
-    "subcategory": "中式料理",
-    "city": "Newport Beach",
-    "address": "1145 Newport Center Dr, Newport Beach, CA 92660, USA",
-    "lat": 33.6151322,
-    "lng": -117.8773054,
-    "phone": "(949) 759-9007",
-    "website": "https://locations.pfchangs.com/ca/newportbeach/1145-newport-center-dr.html?utm_source=google_gbp&utm_medium=organic",
-    "googleMapsUrl": "https://maps.google.com/?cid=16358983424030224615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 1430,
     "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -12413,7 +9549,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Qin West Noodle",
     "category": "chinese",
     "subcategory": "中式料理",
-    "city": "Newport Beach",
+    "city": "Irvine",
     "address": "6200 Scholarship, Irvine, CA 92612, USA",
     "lat": 33.666012099999996,
     "lng": -117.85246450000001,
@@ -12425,7 +9561,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.4,
     "reviewCount": 588,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -12435,9 +9571,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Newport Beach"
+      "Irvine"
     ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:29Z"
@@ -12513,257 +9649,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:29Z"
   },
   {
-    "id": "google_ChIJQ60MmXrl3IAReEjq-32ThwY",
-    "name": "中式料理",
-    "enName": "Peony Chinese Kitchen",
-    "category": "chinese",
-    "subcategory": "中式料理",
-    "city": "Newport Beach",
-    "address": "213 Broadway St, Laguna Beach, CA 92651, USA",
-    "lat": 33.5428984,
-    "lng": -117.78464909999998,
-    "phone": "(949) 715-8120",
-    "website": "https://peonylagunabeach.com/?utm_source=google",
-    "googleMapsUrl": "https://maps.google.com/?cid=470506855390136440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:30 PM",
-    "priceLevel": "$",
-    "rating": 4.7,
-    "reviewCount": 228,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:29Z"
-  },
-  {
-    "id": "google_ChIJtU9PZ4NL3YARk-kofvKr4VM",
-    "name": "鲜味火锅",
-    "enName": "Mumu Hot Pot",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Newport Beach",
-    "address": "3525 W Carson St Ste 170, Torrance, CA 90503, USA",
-    "lat": 33.832476199999995,
-    "lng": -118.34756490000001,
-    "phone": "(424) 624-8784",
-    "website": "https://www.mumuhotpot.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6044301232894962067&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 292,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:30Z"
-  },
-  {
-    "id": "google_ChIJDT9Bpwwp3YAR18O32lN00Pw",
-    "name": "火锅串串",
-    "enName": "Mokkoji Shabu Shabu",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Newport Beach",
-    "address": "9240 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.7732551,
-    "lng": -117.9704417,
-    "phone": "(714) 591-5138",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=18217188396214240215&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 137,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:30Z"
-  },
-  {
-    "id": "google_ChIJIxbGYcQn3YAR5m4f2kVYyuw",
-    "name": "火锅串串",
-    "enName": "Oc & Lau",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Newport Beach",
-    "address": "10130 Garden Grove Blvd, Garden Grove, CA 92843, USA",
-    "lat": 33.7732436,
-    "lng": -117.9558653,
-    "phone": "(714) 636-2000",
-    "website": "https://oclaurestaurant.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17062547195282026214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 2113,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:30Z"
-  },
-  {
-    "id": "google_ChIJBS92dbgn3YARh3OPqSUMsow",
-    "name": "火锅串串",
-    "enName": "Lau Bo by Lao Beo",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Newport Beach",
-    "address": "14271 Brookhurst St, Garden Grove, CA 92843, USA",
-    "lat": 33.7554258,
-    "lng": -117.9554132,
-    "phone": "(714) 617-4229",
-    "website": "https://laubolaobeo.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10138179067062481799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 134,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:30Z"
-  },
-  {
-    "id": "google_ChIJ7YHUCyAw3YARfZ79M1J6u68",
-    "name": "火锅串串",
-    "enName": "The Crab Pot Restaurant & Bar",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Newport Beach",
-    "address": "215 N Marina Dr, Long Beach, CA 90803, USA",
-    "lat": 33.748849899999996,
-    "lng": -118.11304770000001,
-    "phone": "(562) 430-0272",
-    "website": "https://www.crabpotlongbeach.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12662849270760447613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 2341,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:30Z"
-  },
-  {
-    "id": "google_ChIJdTOk-A0m3YARs5D3oCLkfLY",
-    "name": "NOBU 新港滩殿堂日料",
-    "enName": "Nobu Newport Beach",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Newport Beach",
-    "address": "15226 Goldenwest St, Westminster, CA 92683, USA",
-    "lat": 33.7411755,
-    "lng": -118.00627890000001,
-    "phone": "(714) 891-9992",
-    "website": "http://shinobushabu.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=13149635849395605683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 2:30 PM, 4:30 – 9:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 256,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:30Z"
-  },
-  {
     "id": "google_ChIJrcnzRg3f3IAR69sX3smfzpg",
     "name": "点心水饺",
     "enName": "Mad Dumplings",
     "category": "chinese",
     "subcategory": "粤式早茶点心",
-    "city": "Newport Beach",
+    "city": "Irvine",
     "address": "4213 Campus Dr Suite P166D, Irvine, CA 92612, USA",
     "lat": 33.6505535,
     "lng": -117.8378878,
@@ -12775,7 +9666,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 3.8,
     "reviewCount": 76,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -12785,117 +9676,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Newport Beach"
+      "Irvine"
     ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:31Z"
-  },
-  {
-    "id": "google_ChIJjUr4igPp3IAR8N9dqAlpDho",
-    "name": "粤式早茶点心",
-    "enName": "Mimi Garden",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Newport Beach",
-    "address": "23624 El Toro Rd D, Lake Forest, CA 92630, USA",
-    "lat": 33.6176064,
-    "lng": -117.7013002,
-    "phone": "(949) 446-4466",
-    "website": "https://www.themimigarden.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=1877553584860422128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 2:30 PM, 4:30 – 8:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 52,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:31Z"
-  },
-  {
-    "id": "google_ChIJR-GualDX3IARbLLiHHNgh1A",
-    "name": "鼎泰丰小笼包",
-    "enName": "Din Tai Fung",
-    "category": "chinese",
-    "subcategory": "台湾小吃",
-    "city": "Newport Beach",
-    "address": "1547 Disneyland Dr, Anaheim, CA 92802, USA",
-    "lat": 33.808661,
-    "lng": -117.9253196,
-    "phone": "(714) 202-7598",
-    "website": "https://dtf.com/en/locations/anaheim",
-    "googleMapsUrl": "https://maps.google.com/?cid=5802712692412297836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:30 AM – 11:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 715,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:32Z"
-  },
-  {
-    "id": "google_ChIJCWI9Vjsn3YARGXz-tCuuAI8",
-    "name": "颐丰园 (北方小馆)",
-    "enName": "Northern Cafe",
-    "category": "chinese",
-    "subcategory": "台湾小吃",
-    "city": "Newport Beach",
-    "address": "16622 Beach Blvd, Huntington Beach, CA 92647, USA",
-    "lat": 33.720903799999995,
-    "lng": -117.98873529999999,
-    "phone": "(714) 375-0971",
-    "website": "https://www.northerncafehb.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10304427450167098393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 3:00 PM, 4:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 41,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:32Z"
   },
   {
     "id": "google_ChIJIaMuSobg3IARivqjjjbwORE",
@@ -13353,146 +10139,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:35Z"
   },
   {
-    "id": "google_ChIJFyP9AgDbwoARr2bAL6PSFAQ",
-    "name": "炭火烤肉",
-    "enName": "Hibiki BBQ",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Newport Beach",
-    "address": "529 E Valley Blvd suite 108 a, San Gabriel, CA 91776, USA",
-    "lat": 34.080233799999995,
-    "lng": -118.093351,
-    "phone": "(626) 782-7000",
-    "website": "https://hibikibbq.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=294091474008565423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 PM – 1:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 283,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:36Z"
-  },
-  {
-    "id": "google_ChIJLRBjFPQm3YARBOUllaZN0MQ",
-    "name": "牛角日式炭火烤肉",
-    "enName": "Gyu-Kaku Japanese BBQ",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Newport Beach",
-    "address": "7862 Warner Ave #109, Huntington Beach, CA 92647, USA",
-    "lat": 33.715174,
-    "lng": -117.990286,
-    "phone": "(714) 842-8333",
-    "website": "http://www.gyu-kaku.com/huntington-beach",
-    "googleMapsUrl": "https://maps.google.com/?cid=14181920604451890436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 866,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:36Z"
-  },
-  {
-    "id": "google_ChIJH9tNhZe_woARTev4U5RwjZI",
-    "name": "炭火烤肉",
-    "enName": "Oku Niku Japanese BBQ",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Newport Beach",
-    "address": "4013 W Riverside Dr, Burbank, CA 91505, USA",
-    "lat": 34.152135699999995,
-    "lng": -118.3435695,
-    "phone": "(818) 839-8199",
-    "website": "https://oku-niku.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10560220483619973965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$$$",
-    "rating": 4.3,
-    "reviewCount": 104,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:36Z"
-  },
-  {
-    "id": "google_ChIJMYHNfG5K3YARDuzVcEkeIBA",
-    "name": "炭火烤肉",
-    "enName": "Tamaen Reserve   Japanese BBQ",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Newport Beach",
-    "address": "1935 Pacific Coast Hwy, Lomita, CA 90717, USA",
-    "lat": 33.7902191,
-    "lng": -118.3134323,
-    "phone": "(310) 326-0829",
-    "website": "https://tamaenus.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=1161962004636101646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 – 9:30 PM",
-    "priceLevel": "$$$$",
-    "rating": 4.7,
-    "reviewCount": 163,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:36Z"
-  },
-  {
     "id": "google_ChIJM1yohdfh3IARVOjA9_2deVY",
     "name": "日式炭火烧肉",
     "enName": "Hana Grill",
@@ -13528,292 +10174,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:36Z"
   },
   {
-    "id": "google_ChIJr0kGNADl3IARyEYltAWQbf0",
-    "name": "日式居酒屋",
-    "enName": "Izakaya Sora",
-    "category": "japanese",
-    "subcategory": "日式居酒屋",
-    "city": "Newport Beach",
-    "address": "220 Beach St, Laguna Beach, CA 92651, USA",
-    "lat": 33.5439491,
-    "lng": -117.7828226,
-    "phone": "",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=18261410418228807368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "11:00 AM - 9:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 7,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:38Z"
-  },
-  {
-    "id": "google_ChIJdy_ELCsp3YARZmAGlc34ymU",
-    "name": "炭火烤肉",
-    "enName": "Dondam Restaurant Korean BBQ",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Newport Beach",
-    "address": "10330 Beach Blvd Ste A & B, Stanton, CA 90680, USA",
-    "lat": 33.8127859,
-    "lng": -117.9927852,
-    "phone": "(714) 886-2141",
-    "website": "https://dondamrestaurant.com/?utm_source=google&utm_medium=maps&utm_campaign=website",
-    "googleMapsUrl": "https://maps.google.com/?cid=7334948504978481254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.9,
-    "reviewCount": 135,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:39Z"
-  },
-  {
-    "id": "google_ChIJUaU3CE0r3YARKk6_vqgUXeg",
-    "name": "炭火烤肉",
-    "enName": "Wyn Korean BBQ",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Newport Beach",
-    "address": "5471 Beach Blvd, Buena Park, CA 90621, USA",
-    "lat": 33.8823886,
-    "lng": -117.9980197,
-    "phone": "(714) 752-6006",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=16743561704620641834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 11:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 131,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:39Z"
-  },
-  {
-    "id": "google_ChIJvWznB30o3YARYahZBAeBiDU",
-    "name": "正宗韩式烤肉",
-    "enName": "Cham Soot Gol",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Newport Beach",
-    "address": "9252 Garden Grove Blvd Ste 10, Garden Grove, CA 92844, USA",
-    "lat": 33.773418299999996,
-    "lng": -117.9694928,
-    "phone": "(714) 590-9292",
-    "website": "https://chamsootgol.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3857474947980568673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 889,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:39Z"
-  },
-  {
-    "id": "google_ChIJC_ov7M3HwoAR8CsQczXX-8M",
-    "name": "韩式嫩豆腐锅",
-    "enName": "Soondol Tofu House",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Newport Beach",
-    "address": "16450 Beach Blvd, Westminster, CA 92683, USA",
-    "lat": 33.7240985,
-    "lng": -117.98768299999999,
-    "phone": "(949) 444-9129",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=14122117681114000368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 62,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:40Z"
-  },
-  {
-    "id": "google_ChIJEcmyS27v3IARjNpQXaLqoik",
-    "name": "韩式嫩豆腐锅",
-    "enName": "Nasung Donkasu",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Newport Beach",
-    "address": "26741 Aliso Creek Rd Ste B, Aliso Viejo, CA 92656, USA",
-    "lat": 33.575139199999995,
-    "lng": -117.72564630000001,
-    "phone": "(949) 328-9097",
-    "website": "https://nasungdonkasu.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3000218284853353100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 157,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:40Z"
-  },
-  {
-    "id": "google_ChIJxWaHHc0r3YARnVlpgRqJuRE",
-    "name": "韩式嫩豆腐锅",
-    "enName": "So Moon Nan Jokbal Fullerton",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Newport Beach",
-    "address": "1072 S Brookhurst Rd, Fullerton, CA 92833, USA",
-    "lat": 33.860277800000006,
-    "lng": -117.9588889,
-    "phone": "(657) 385-5001",
-    "website": "https://www.instagram.com/somoonnan.jokbal",
-    "googleMapsUrl": "https://maps.google.com/?cid=1277202716269566365&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 214,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:40Z"
-  },
-  {
-    "id": "google_ChIJgwkEBYYo3YARwJictOtDk8A",
-    "name": "加州嫩豆腐煲",
-    "enName": "Kaju Soft Tofu",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Newport Beach",
-    "address": "8895 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.774540800000004,
-    "lng": -117.9772383,
-    "phone": "(714) 636-2849",
-    "website": "https://www.kajusofttofu.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=13876509556485167296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 1474,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:40Z"
-  },
-  {
     "id": "google_ChIJy50bGpPf3IARJ7qUpQ637xc",
     "name": "韩式脆皮炸鸡",
     "enName": "Bred Hot Chicken",
     "category": "korean",
     "subcategory": "韩式脆皮炸鸡",
-    "city": "Newport Beach",
+    "city": "Costa Mesa",
     "address": "2930 Bristol St Ste A104, Costa Mesa, CA 92626, USA",
     "lat": 33.677656899999995,
     "lng": -117.88624449999999,
@@ -13825,7 +10191,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.6,
     "reviewCount": 394,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Costa Mesa 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -13835,9 +10201,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Newport Beach"
+      "Costa Mesa"
     ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Costa Mesa 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:41Z"
@@ -13913,47 +10279,12 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:43Z"
   },
   {
-    "id": "google_ChIJUwlLh5Hg3IARgvtqoN2thRM",
-    "name": "亚洲综合生鲜超市",
-    "enName": "Harbor View Shopping Center",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Newport Beach",
-    "address": "1610 - 1666 San Miguel Dr, Newport Beach, CA 92660, USA",
-    "lat": 33.6118372,
-    "lng": -117.86401599999999,
-    "phone": "(949) 720-3100",
-    "website": "https://www.irvinecompanyretail.com/centers/newport-beach/harbor-view-shopping-center/?utm_source=chatmeter&utm_medium=organic&utm_campaign=gmb_listings",
-    "googleMapsUrl": "https://maps.google.com/?cid=1406721626013891458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 12:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 297,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:43Z"
-  },
-  {
     "id": "google_ChIJAXivOG3p3IARxxvyxt2d708",
     "name": "亚洲商超",
     "enName": "Island Pacific Supermarket and Seafood",
     "category": "market",
     "subcategory": "亚洲综合生鲜超市",
-    "city": "Newport Beach",
+    "city": "Lake Forest",
     "address": "23811 El Toro Rd, Lake Forest, CA 92630, USA",
     "lat": 33.6178941,
     "lng": -117.7068201,
@@ -13965,7 +10296,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.2,
     "reviewCount": 268,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -13975,397 +10306,12 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Newport Beach"
+      "Lake Forest"
     ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:43Z"
-  },
-  {
-    "id": "google_ChIJOSWQXQDp3IARNTNZLCnYdRQ",
-    "name": "99大华超级市场",
-    "enName": "99 Ranch Market",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Newport Beach",
-    "address": "26519 Aliso Creek Rd, Aliso Viejo, CA 92656, USA",
-    "lat": 33.5792566,
-    "lng": -117.72318829999999,
-    "phone": "(949) 767-8899",
-    "website": "https://www.99ranch.com/stores-search",
-    "googleMapsUrl": "https://maps.google.com/?cid=1474322124383007541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 263,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:43Z"
-  },
-  {
-    "id": "google_ChIJwTZxBdsn3YAREqD-SmDQchs",
-    "name": "亚洲商超",
-    "enName": "Thuan Phat Supermarket",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Newport Beach",
-    "address": "13861 Brookhurst St, Garden Grove, CA 92843, USA",
-    "lat": 33.761020099999996,
-    "lng": -117.9564477,
-    "phone": "(714) 539-6688",
-    "website": "http://www.shunfatsupermarket.com/locations/",
-    "googleMapsUrl": "https://maps.google.com/?cid=1977872298362707986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 853,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:43Z"
-  },
-  {
-    "id": "google_ChIJg4enecon3YARgFWg-VAhSe0",
-    "name": "亚洲商超",
-    "enName": "A Dong Supermarket",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Newport Beach",
-    "address": "9221 Bolsa Ave, Westminster, CA 92683, USA",
-    "lat": 33.746441499999996,
-    "lng": -117.9681901,
-    "phone": "(714) 999-5566",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=17098234091957933440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 984,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:44Z"
-  },
-  {
-    "id": "google_ChIJi5LIetsn3YARah6wP8iZx6A",
-    "name": "亚洲商超",
-    "enName": "Hoa Binh Garden Grove Supermarket",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Newport Beach",
-    "address": "13922 Brookhurst St, Garden Grove, CA 92843, USA",
-    "lat": 33.7603781,
-    "lng": -117.9535042,
-    "phone": "(714) 534-8899",
-    "website": "http://www.hoabinhusa.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=11585397651774905962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 7:45 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 726,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:44Z"
-  },
-  {
-    "id": "google_ChIJyaBK-hnZ3IARjK3nKX2iWHw",
-    "name": "华人大型超市",
-    "enName": "Avanta Mart",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Newport Beach",
-    "address": "11420 Warner Ave, Fountain Valley, CA 92708, USA",
-    "lat": 33.7155902,
-    "lng": -117.92990950000001,
-    "phone": "(888) 505-4814",
-    "website": "https://avantanetwork.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=8960090117111262604&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 9:00 AM – 5:30 PM",
-    "priceLevel": "$$",
-    "rating": 5.0,
-    "reviewCount": 1,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:44Z"
-  },
-  {
-    "id": "google_ChIJMZJb5KRK3YARu4cpeq-zu-Y",
-    "name": "三和日本生鲜生活超市",
-    "enName": "Mitsuwa Marketplace",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Newport Beach",
-    "address": "3525 W Carson St Ste 164, Torrance, CA 90503, USA",
-    "lat": 33.8326464,
-    "lng": -118.34826960000001,
-    "phone": "(310) 782-0335",
-    "website": "https://mitsuwa.com/td",
-    "googleMapsUrl": "https://maps.google.com/?cid=16626080015618508731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 9:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 4792,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:45Z"
-  },
-  {
-    "id": "google_ChIJg7laq95x3IARMOKzjMdHNeY",
-    "name": "亚洲商超",
-    "enName": "Kyoto Market",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Newport Beach",
-    "address": "559 Greenbrier Dr A, Oceanside, CA 92054, USA",
-    "lat": 33.1951181,
-    "lng": -117.3560816,
-    "phone": "(760) 757-5456",
-    "website": "http://www.kyotomarketoside.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16588243724873753136&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 260,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:45Z"
-  },
-  {
-    "id": "google_ChIJYwnvAFy6woARguL8OtvHFpg",
-    "name": "三和日本生鲜生活超市",
-    "enName": "Mitsuwa Marketplace",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Newport Beach",
-    "address": "3760 S Centinela Ave, Los Angeles, CA 90066, USA",
-    "lat": 34.0048807,
-    "lng": -118.4334378,
-    "phone": "(310) 398-2113",
-    "website": "https://mitsuwa.com/sm/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10959166487654097538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 9:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 3602,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:45Z"
-  },
-  {
-    "id": "google_ChIJrfxkpC5L3YARKoGcXJ2zCAk",
-    "name": "亚洲商超",
-    "enName": "Seiwa Market",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Newport Beach",
-    "address": "21815 Hawthorne Blvd, Torrance, CA 90503, USA",
-    "lat": 33.8299522,
-    "lng": -118.35299889999999,
-    "phone": "(310) 802-6220",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=650967634600034602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 7:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 597,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:45Z"
-  },
-  {
-    "id": "google_ChIJyVGa_Okpw4ARhdjqDVPxnzc",
-    "name": "东京中央日本超市",
-    "enName": "Tokyo Central",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Newport Beach",
-    "address": "1420 S Azusa Ave, West Covina, CA 91791, USA",
-    "lat": 34.0484012,
-    "lng": -117.9066404,
-    "phone": "(626) 214-9590",
-    "website": "https://tokyocentral.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4008187532401105029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 3005,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:45Z"
-  },
-  {
-    "id": "google_ChIJcdH8nnwqw4AR8Gz20Uxyzm8",
-    "name": "亚洲商超",
-    "enName": "Nijiya Market Puente Hills Store",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Newport Beach",
-    "address": "17869 Colima Rd, City of Industry, CA 91748, USA",
-    "lat": 33.990804499999996,
-    "lng": -117.9149203,
-    "phone": "(626) 913-9991",
-    "website": "http://www.nijiya.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=8056502457678064880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 797,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:45Z"
   },
   {
     "id": "google_ChIJKWdgWgAh3YARGVrfyp7uT-M",
@@ -14383,7 +10329,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "11:00 AM - 9:30 PM",
     "priceLevel": "$$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 1,
     "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -14420,76 +10366,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 106,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:51Z"
-  },
-  {
-    "id": "google_ChIJYSAdov65yIARxemU-d_H1Oo",
-    "name": "烘焙工坊",
-    "enName": "Sweet Garden Japanese Cheesecake",
-    "category": "dessert_tea",
-    "subcategory": "日式轻乳酪甜品",
-    "city": "Newport Beach",
-    "address": "9730 W Tropicana Ave #130, Las Vegas, NV 89147, USA",
-    "lat": 36.100482,
-    "lng": -115.3048003,
-    "phone": "(702) 333-0778",
-    "website": "http://tropicana.sweetgardenus.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16921369464716716485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 262,
-    "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Newport Beach"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Newport Beach 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:51Z"
-  },
-  {
-    "id": "google_ChIJU8L0lxSx3IARk40xYO8oJn4",
-    "name": "日式轻乳酪甜品",
-    "enName": "Uncle Fluffy",
-    "category": "dessert_tea",
-    "subcategory": "日式轻乳酪甜品",
-    "city": "Newport Beach",
-    "address": "10237 Magnolia Ave, Riverside, CA 92503, USA",
-    "lat": 33.913632299999996,
-    "lng": -117.46024999999999,
-    "phone": "(951) 406-1046",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=9089997906470079891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 296,
     "parkingInfo": "Newport Beach 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -14725,8 +10601,8 @@ export const INITIAL_PLACES: Place[] = [
     "subcategory": "中式料理",
     "city": "Santa Ana",
     "address": "4401 W 1st St #4016, Santa Ana, CA 92703, USA",
-    "lat": 33.7453785,
-    "lng": -117.92794509999999,
+    "lat": 33.7453541,
+    "lng": -117.92807390000002,
     "phone": "(714) 775-1536",
     "website": "http://trieuchaurestaurants.com/",
     "googleMapsUrl": "https://maps.google.com/?cid=1654590165228204582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -15068,111 +10944,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:53Z"
   },
   {
-    "id": "google_ChIJvUcukdwn3YARk3Zo_ma82iE",
-    "name": "沸点臭臭锅",
-    "enName": "Boiling Point",
-    "category": "chinese",
-    "subcategory": "火锅串串",
-    "city": "Santa Ana",
-    "address": "13876 Brookhurst St #3173, Garden Grove, CA 92843, USA",
-    "lat": 33.7613889,
-    "lng": -117.95333330000001,
-    "phone": "(714) 636-3238",
-    "website": "https://www.bpgroupusa.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=2439469298715489939&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 489,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:54Z"
-  },
-  {
-    "id": "google_ChIJo8G-JSgp3YAR7aw_AJBQieM",
-    "name": "点心水饺",
-    "enName": "Crystal Dumplings",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Santa Ana",
-    "address": "9240 Garden Grove Blvd #12, Garden Grove, CA 92844, USA",
-    "lat": 33.7733961,
-    "lng": -117.9711658,
-    "phone": "(657) 233-5440",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=16395724497828687085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 321,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:55Z"
-  },
-  {
-    "id": "google_ChIJxYNwkLUn3YARBatTl_GQ1lY",
-    "name": "粤式早茶点心",
-    "enName": "Seafood Cove 2",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Santa Ana",
-    "address": "9211 Bolsa Ave Ste 106, Westminster, CA 92683, USA",
-    "lat": 33.7451765,
-    "lng": -117.9679996,
-    "phone": "(714) 893-1976",
-    "website": "http://www.seafood-cove.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6257348099578243845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 2397,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:55Z"
-  },
-  {
     "id": "google_ChIJ7dNNXmDZ3IARZicd6QD8H8c",
     "name": "精选寿司",
     "enName": "Koco Sushi",
@@ -15223,7 +10994,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 10:00 AM – 1:00 AM",
     "priceLevel": "$$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 1,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -15348,41 +11119,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:57Z"
   },
   {
-    "id": "google_ChIJ0Z4NyNTZ3IARsrjLAd4BLyw",
-    "name": "精选寿司",
-    "enName": "Wazabi Sushi   Orange",
-    "category": "japanese",
-    "subcategory": "东瀛料理",
-    "city": "Santa Ana",
-    "address": "240 W Chapman Ave Ste 102, Orange, CA 92866, USA",
-    "lat": 33.7874672,
-    "lng": -117.85514760000001,
-    "phone": "(714) 602-7535",
-    "website": "https://wazabisushi.com/orange?utm_source=google",
-    "googleMapsUrl": "https://maps.google.com/?cid=3183765514598725810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 309,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:57Z"
-  },
-  {
     "id": "google_ChIJJ75waLPY3IARta3z1HqINxg",
     "name": "精选寿司",
     "enName": "Sushi Murasaki",
@@ -15416,146 +11152,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:36:57Z"
-  },
-  {
-    "id": "google_ChIJh56mxMXZ3IARLmWqmxnox00",
-    "name": "精选寿司",
-    "enName": "Tori Tori Sushi AYCE",
-    "category": "japanese",
-    "subcategory": "东瀛料理",
-    "city": "Santa Ana",
-    "address": "1111 W Town and Country Rd Ste 2, Orange, CA 92868, USA",
-    "lat": 33.777015399999996,
-    "lng": -117.864454,
-    "phone": "(657) 218-4881",
-    "website": "https://www.toritorisushi.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=5604703457969333550&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 152,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:57Z"
-  },
-  {
-    "id": "google_ChIJNWCtmXrZ3IAR872s-4R7dsU",
-    "name": "弘典手工精酿拉面",
-    "enName": "HiroNori Craft Ramen",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Santa Ana",
-    "address": "765 The City Dr S #130, Orange, CA 92868, USA",
-    "lat": 33.7755951,
-    "lng": -117.8896577,
-    "phone": "(657) 251-0567",
-    "website": "http://hironori.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14228695883811962355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 296,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:58Z"
-  },
-  {
-    "id": "google_ChIJWfOx3K3Z3IARPLVYLIOzHgc",
-    "name": "日式拉面",
-    "enName": "Butaton Ramen   Orange",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Santa Ana",
-    "address": "10 Plaza Square Ste 101, Orange, CA 92866, USA",
-    "lat": 33.787774299999995,
-    "lng": -117.85257089999999,
-    "phone": "(714) 363-3212",
-    "website": "http://www.butatonramen.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=513044783532913980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 3:00 PM, 5:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 184,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:58Z"
-  },
-  {
-    "id": "google_ChIJq2j0-abZ3IARhiyV3rULg2A",
-    "name": "精选寿司",
-    "enName": "Got Sushi & Grill",
-    "category": "japanese",
-    "subcategory": "精选手握寿司",
-    "city": "Santa Ana",
-    "address": "4045 Garden Grove Blvd C, Orange, CA 92868, USA",
-    "lat": 33.774849599999996,
-    "lng": -117.8969831,
-    "phone": "(714) 740-0842",
-    "website": "http://gotsushigrill.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6954415125341482118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 98,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:36:59Z"
   },
   {
     "id": "google_ChIJdxkz2-TY3IARuEm_dN1avZ8",
@@ -15593,76 +11189,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:36:59Z"
   },
   {
-    "id": "google_ChIJV1-KCe8r3YARcJuO3lh38Ks",
-    "name": "炭火烤肉",
-    "enName": "All you can eat sushi & bbq Buena park",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Santa Ana",
-    "address": "7880 Beach Blvd, Buena Park, CA 90620, USA",
-    "lat": 33.8486335,
-    "lng": -117.9973365,
-    "phone": "(714) 266-0626",
-    "website": "http://sushinbbq.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12389533798470949744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 415,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:01Z"
-  },
-  {
-    "id": "google_ChIJh7vbwrrZ3IARAm4bayKtphM",
-    "name": "日式炭火烧肉",
-    "enName": "Habachihana Japanese Grill",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Santa Ana",
-    "address": "554 N Tustin St, Orange, CA 92867, USA",
-    "lat": 33.7959144,
-    "lng": -117.8360196,
-    "phone": "(657) 284-2200",
-    "website": "https://habachihanagrill.com/habachihana-orange?utm_source=google",
-    "googleMapsUrl": "https://maps.google.com/?cid=1416009496192052738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 3.6,
-    "reviewCount": 91,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:01Z"
-  },
-  {
     "id": "google_ChIJDwOd_-LZ3IARJbkh3-hSaRY",
     "name": "正宗韩式烤肉",
     "enName": "I Can Barbecue  Korean Grill",
@@ -15696,286 +11222,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:37:03Z"
-  },
-  {
-    "id": "google_ChIJjY2oIB4p3YAR2j-dhuAtVa8",
-    "name": "炭火烤肉",
-    "enName": "Chung Dam Korean BBQ",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Santa Ana",
-    "address": "9902 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.77333,
-    "lng": -117.9596348,
-    "phone": "(657) 251-0913",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=12634054772012171226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 11:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 480,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:03Z"
-  },
-  {
-    "id": "google_ChIJH3P5vHso3YARFg1Gu2QeTGI",
-    "name": "正宗韩式烤肉",
-    "enName": "Mo Ran Gak",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Santa Ana",
-    "address": "9651 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.7742942,
-    "lng": -117.9642562,
-    "phone": "(714) 638-1177",
-    "website": "https://morangakkbbq.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=7083069731934440726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 2149,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:03Z"
-  },
-  {
-    "id": "google_ChIJXcp4YGgo3YAR9VJeimQHOz4",
-    "name": "炭火烤肉",
-    "enName": "Bullgogi Korean BBQ",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Santa Ana",
-    "address": "12118 Brookhurst St, Garden Grove, CA 92840, USA",
-    "lat": 33.786878,
-    "lng": -117.958147,
-    "phone": "(714) 636-1700",
-    "website": "https://bullgogikoreanbbq.shop/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4484185982377022197&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 11:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 935,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:03Z"
-  },
-  {
-    "id": "google_ChIJoaZ6EYYo3YARecQOMGzDnDk",
-    "name": "炭火烤肉",
-    "enName": "Grams BBQ Premium AYCE",
-    "category": "korean",
-    "subcategory": "正宗韩式烤肉",
-    "city": "Santa Ana",
-    "address": "8902 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.7736547,
-    "lng": -117.9766604,
-    "phone": "(714) 591-5044",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=4151407825958913145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 3:00 PM, 4:30 PM – 12:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 705,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:03Z"
-  },
-  {
-    "id": "google_ChIJ5-7Rc3wo3YARhrOd1wMXMSM",
-    "name": "韩式嫩豆腐锅",
-    "enName": "BCD Tofu House",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Santa Ana",
-    "address": "9520 Garden Grove Blvd #9, Garden Grove, CA 92844, USA",
-    "lat": 33.7735482,
-    "lng": -117.96623419999997,
-    "phone": "(714) 636-5599",
-    "website": "http://bcdtofuhouse.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=2535833370456077190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 3:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 793,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:04Z"
-  },
-  {
-    "id": "google_ChIJ80FlLcEp3YAR_So7A_pKbi4",
-    "name": "炭火烤肉",
-    "enName": "Chodang Tofu & BBQ",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Santa Ana",
-    "address": "2717 W Lincoln Ave, Anaheim, CA 92801, USA",
-    "lat": 33.8325343,
-    "lng": -117.98033489999999,
-    "phone": "(714) 723-6134",
-    "website": "https://chodangus.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3345694010839345917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:30 AM – 12:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 34,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:04Z"
-  },
-  {
-    "id": "google_ChIJVUE0f3wo3YARi8crIhTOO5k",
-    "name": "韩式嫩豆腐锅",
-    "enName": "Gamjatang house  garden grove",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Santa Ana",
-    "address": "9567 Garden Grove Blvd, Garden Grove, CA 92841, USA",
-    "lat": 33.774218,
-    "lng": -117.9659834,
-    "phone": "(714) 530-1276",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=11041645497296865163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$",
-    "rating": 4.4,
-    "reviewCount": 273,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:04Z"
-  },
-  {
-    "id": "google_ChIJraY_q_7R3IARzVd74YsNrDo",
-    "name": "韩式嫩豆腐锅",
-    "enName": "Masito Korean Restaurant",
-    "category": "korean",
-    "subcategory": "韩式嫩豆腐锅",
-    "city": "Santa Ana",
-    "address": "8257 E Santa Ana Canyon Rd, Anaheim, CA 92808, USA",
-    "lat": 33.868472,
-    "lng": -117.74464470000001,
-    "phone": "(657) 605-2358",
-    "website": "https://masito-korean-restaurant.square.site/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4227769044628625357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 107,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:04Z"
   },
   {
     "id": "google_ChIJk8ckmQnZ3IARzrV8l9-XzMY",
@@ -16030,41 +11276,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.1,
     "reviewCount": 60,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:05Z"
-  },
-  {
-    "id": "google_ChIJ-4OYoSgp3YARnCBgHVHe74o",
-    "name": "bb.q Chicken 韩式炸鸡",
-    "enName": "bb.q Chicken",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Santa Ana",
-    "address": "9672 Garden Grove Blvd, Garden Grove, CA 92844, USA",
-    "lat": 33.7735341,
-    "lng": -117.96363869999999,
-    "phone": "(714) 591-5399",
-    "website": "https://bbqchicken.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10011464936634458268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 12:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 341,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -16293,41 +11504,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:06Z"
   },
   {
-    "id": "google_ChIJrSugOdDZ3IAR9Bi3Cv2iWTw",
-    "name": "越南牛肉粉",
-    "enName": "Simply Pho Noodle House",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Santa Ana",
-    "address": "424 S Main St # F, Orange, CA 92868, USA",
-    "lat": 33.7815662,
-    "lng": -117.86833250000001,
-    "phone": "(714) 912-4020",
-    "website": "https://www.simplyphonoodles.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4348686122893121780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$",
-    "rating": 4.5,
-    "reviewCount": 556,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:06Z"
-  },
-  {
     "id": "google_ChIJY4NmjNjb3IARZ39BNie8ae4",
     "name": "越式传统牛肉粉",
     "enName": "H ng Vietnamese Restaurant",
@@ -16343,7 +11519,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 10:00 AM – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 647,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -16380,41 +11556,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 105,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:06Z"
-  },
-  {
-    "id": "google_ChIJGzDVaF0n3YAREluN6kPkXp4",
-    "name": "越南牛肉粉",
-    "enName": "OneV Pho Bistro",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Santa Ana",
-    "address": "10911 Westminster Ave A, Garden Grove, CA 92840, USA",
-    "lat": 33.7599234,
-    "lng": -117.93885890000001,
-    "phone": "(714) 586-9088",
-    "website": "https://www.phoonev.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=11411809486152489746&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:00 AM – 9:00 PM",
-    "priceLevel": "$",
-    "rating": 4.5,
-    "reviewCount": 30,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -16503,146 +11644,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:06Z"
   },
   {
-    "id": "google_ChIJXT99hYPY3IAR10hyFjLcusE",
-    "name": "泰式料理",
-    "enName": "Double Delicious Thai Cuisine",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Santa Ana",
-    "address": "16076 S Harbor Blvd, Fountain Valley, CA 92708, USA",
-    "lat": 33.729980399999995,
-    "lng": -117.9195404,
-    "phone": "(714) 277-3639",
-    "website": "https://orderdoubledeliciousthai.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=13959712102671337687&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 354,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:06Z"
-  },
-  {
-    "id": "google_ChIJYT-olxYo3YAR9G9dHBmD-5o",
-    "name": "泰式料理",
-    "enName": "Thai Famous Cuisine",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Santa Ana",
-    "address": "11891 S Euclid St, Garden Grove, CA 92840, USA",
-    "lat": 33.78991860000001,
-    "lng": -117.9417045,
-    "phone": "(714) 534-3316",
-    "website": "https://www.thaifamouscuisineca.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=11167663844868583412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 1:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 1168,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:06Z"
-  },
-  {
-    "id": "google_ChIJTWo2k8In3YARaqlMp1CzNi8",
-    "name": "泰式料理",
-    "enName": "Vientiane Lao Thai Restaurant",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Santa Ana",
-    "address": "10262 Westminster Ave, Garden Grove, CA 92843, USA",
-    "lat": 33.7588588,
-    "lng": -117.94996239999999,
-    "phone": "(714) 530-7523",
-    "website": "https://vientianelaothai.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=3402103727510563178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 7:30 PM",
-    "priceLevel": "$",
-    "rating": 4.5,
-    "reviewCount": 551,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:06Z"
-  },
-  {
-    "id": "google_ChIJPS_NHNfZ3IARFSkoTvFuH1s",
-    "name": "泰式料理",
-    "enName": "Cha Thai Restaurant",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Santa Ana",
-    "address": "1520 W Chapman Ave, Orange, CA 92868, USA",
-    "lat": 33.787427799999996,
-    "lng": -117.8689056,
-    "phone": "(714) 978-3905",
-    "website": "https://chathaitogo.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6566088764406901013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 3:30 PM, 4:30 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 323,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:06Z"
-  },
-  {
     "id": "google_ChIJxyMJMnfY3IAR79rpFR3sBZ4",
     "name": "亚洲商超",
     "enName": "Pacific Market",
@@ -16695,76 +11696,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.2,
     "reviewCount": 35,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:07Z"
-  },
-  {
-    "id": "google_ChIJVwiUMcMn3YARCNBYIHrrUYs",
-    "name": "亚洲商超",
-    "enName": "Saigon Supermarket",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Santa Ana",
-    "address": "10131 Westminster Blvd., Garden Grove, CA 92843, USA",
-    "lat": 33.760487999999995,
-    "lng": -117.95204709999999,
-    "phone": "(714) 636-5600",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=10039063954146775048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 7:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 313,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:07Z"
-  },
-  {
-    "id": "google_ChIJDWUcgoPY3IARdxndCqNzqUQ",
-    "name": "亚洲商超",
-    "enName": "Thanh Long Supermarket",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Santa Ana",
-    "address": "16112 Harbor Blvd, Fountain Valley, CA 92708, USA",
-    "lat": 33.7293684,
-    "lng": -117.91934499999999,
-    "phone": "(714) 554-1838",
-    "website": "https://chacathanhlong.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=4947612809742326135&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 22,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -16853,146 +11784,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:07Z"
   },
   {
-    "id": "google_ChIJY6IH1X3Z3IARr3A1hObGlzQ",
-    "name": "亚洲商超",
-    "enName": "Lucky Seafood 2 Supermarket",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Santa Ana",
-    "address": "13220 Harbor Blvd, Garden Grove, CA 92843, USA",
-    "lat": 33.7714912,
-    "lng": -117.9189731,
-    "phone": "(714) 741-0628",
-    "website": "https://www.facebook.com/profile.php?id=61559416430231",
-    "googleMapsUrl": "https://maps.google.com/?cid=3789716304818434223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 3.6,
-    "reviewCount": 52,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:08Z"
-  },
-  {
-    "id": "google_ChIJ-_cjyqQn3YAR_tUDDYfui-U",
-    "name": "亚洲商超",
-    "enName": "Saigon City Supermarket",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Santa Ana",
-    "address": "15471 Brookhurst St, Westminster, CA 92683, USA",
-    "lat": 33.7384252,
-    "lng": -117.95621399999999,
-    "phone": "(714) 531-9800",
-    "website": "https://www.facebook.com/profile.php?id=61556267906272",
-    "googleMapsUrl": "https://maps.google.com/?cid=16540576320254629374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.0,
-    "reviewCount": 979,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:08Z"
-  },
-  {
-    "id": "google_ChIJCRu7RALY3IARlCZVohAjuO0",
-    "name": "日本生鲜超市",
-    "enName": "Daiso   Japanese Household Goods",
-    "category": "market",
-    "subcategory": "日本生鲜超市",
-    "city": "Santa Ana",
-    "address": "12825 Harbor Blvd, Garden Grove, CA 92840, USA",
-    "lat": 33.7776835,
-    "lng": -117.91692769999999,
-    "phone": "(657) 233-0797",
-    "website": "https://daisous.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17129479737053619860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 562,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:09Z"
-  },
-  {
-    "id": "google_ChIJ28UcXVorw4ARsEcIA0J5o3A",
-    "name": "H Mart 韩国生鲜超市",
-    "enName": "H Mart",
-    "category": "market",
-    "subcategory": "韩国生鲜超市",
-    "city": "Santa Ana",
-    "address": "2825 S Diamond Bar Blvd, Diamond Bar, CA 91765, USA",
-    "lat": 33.9744102,
-    "lng": -117.83947250000001,
-    "phone": "(909) 839-0300",
-    "website": "https://www.hmart.com/store/diamond-bar-ca-91765/7bd5967b-4b01-4ace-a5f3-8c78ee964266",
-    "googleMapsUrl": "https://maps.google.com/?cid=8116464277877442480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 2024,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:10Z"
-  },
-  {
     "id": "google_ChIJw5KHI17Z3IARsmk1IRpwt5Y",
     "name": "原叶茶饮",
     "enName": "Boba Junkie Santa Ana",
@@ -17078,7 +11869,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 6:00 AM – 6:00 PM",
     "priceLevel": "$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 27,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -17238,41 +12029,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:11Z"
   },
   {
-    "id": "google_ChIJ0cQM-xrZ3IAR8cQyx_GVJ7A",
-    "name": "原叶茶饮",
-    "enName": "Fruitea Boba",
-    "category": "dessert_tea",
-    "subcategory": "新式原叶茶饮",
-    "city": "Santa Ana",
-    "address": "146 S Main St Ste L, Orange, CA 92868, USA",
-    "lat": 33.786870199999996,
-    "lng": -117.8677382,
-    "phone": "(714) 912-4009",
-    "website": "http://drinkfruitea.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12693278940428682481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 161,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:11Z"
-  },
-  {
     "id": "google_ChIJa53nA1LZ3IARt1A3DZOUw-Y",
     "name": "新式原叶茶饮",
     "enName": "Lollicup Fresh   MainPlace Mall",
@@ -17288,7 +12044,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:30 AM – 8:00 PM",
     "priceLevel": "$$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 3,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -17325,76 +12081,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.1,
     "reviewCount": 200,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:11Z"
-  },
-  {
-    "id": "google_ChIJqUwJYu4n3YARxhFJln1dUlo",
-    "name": "原叶茶饮",
-    "enName": "Urban Location Boba Tea House Garden Grove",
-    "category": "dessert_tea",
-    "subcategory": "新式原叶茶饮",
-    "city": "Santa Ana",
-    "address": "10872 Westminster Ave #103, Garden Grove, CA 92843, USA",
-    "lat": 33.7593147,
-    "lng": -117.93937040000002,
-    "phone": "(714) 591-5780",
-    "website": "http://www.urban-location.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6508367205477454278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 11:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 459,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:11Z"
-  },
-  {
-    "id": "google_ChIJ7wluDu0n3YARKrUBJ-VLUBk",
-    "name": "原叶茶饮",
-    "enName": "Y Tea Cafe  Boba  Fries  Crawfish",
-    "category": "dessert_tea",
-    "subcategory": "新式原叶茶饮",
-    "city": "Santa Ana",
-    "address": "14291 N Euclid St Ste D105, Garden Grove, CA 92843, USA",
-    "lat": 33.755245599999995,
-    "lng": -117.9383964,
-    "phone": "(714) 554-0401",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=1824041296659068202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 259,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -17603,7 +12289,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 7:00 AM – 9:00 PM",
     "priceLevel": "$$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 802,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -17640,41 +12326,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.2,
     "reviewCount": 182,
-    "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Santa Ana"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Santa Ana 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:12Z"
-  },
-  {
-    "id": "google_ChIJ_6KPwGAn3YARRcdVlXz9A3w",
-    "name": "烘焙工坊",
-    "enName": "Thanh Thi Bakery",
-    "category": "dessert_tea",
-    "subcategory": "手作烘焙面包",
-    "city": "Santa Ana",
-    "address": "10710 Westminster Ave, Garden Grove, CA 92843, USA",
-    "lat": 33.7593929,
-    "lng": -117.94234130000001,
-    "phone": "(714) 352-9186",
-    "website": "http://thanhthibakery.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=8936264797156394821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 142,
     "parkingInfo": "Santa Ana 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -17915,46 +12566,11 @@ export const INITIAL_PLACES: Place[] = [
     "phone": "(949) 328-9779",
     "website": "https://www.saigonroll.com/",
     "googleMapsUrl": "https://maps.google.com/?cid=14473426623297256407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
+    "status": "temporarily_closed",
     "hoursText": "Monday: 11:00 AM – 6:00 PM",
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 117,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:14Z"
-  },
-  {
-    "id": "google_ChIJr13si37o3IAREeLkULExseg",
-    "name": "中式料理",
-    "enName": "Classic Chinese Restaurant",
-    "category": "chinese",
-    "subcategory": "中式料理",
-    "city": "Lake Forest",
-    "address": "23565 Moulton Pkwy # C, Laguna Hills, CA 92653, USA",
-    "lat": 33.6200749,
-    "lng": -117.7330502,
-    "phone": "(949) 768-1689",
-    "website": "https://classicchinese.shop/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16767237525313217041&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.2,
-    "reviewCount": 779,
     "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -18008,41 +12624,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:14Z"
   },
   {
-    "id": "google_ChIJT12Uln7o3IAR9Wc8IAdPb4M",
-    "name": "中式料理",
-    "enName": "Hai Master Kitchen",
-    "category": "chinese",
-    "subcategory": "中式料理",
-    "city": "Lake Forest",
-    "address": "24401 Ridge Rte Dr # B102, Laguna Hills, CA 92653, USA",
-    "lat": 33.621802599999995,
-    "lng": -117.73213930000001,
-    "phone": "(949) 299-7369",
-    "website": "https://www.haimasterkitchenca.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9470875433407637493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 309,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:14Z"
-  },
-  {
     "id": "google_ChIJLUloQxjp3IARTg6uhbMnC9Q",
     "name": "炭火烤肉",
     "enName": "Frank's BBQ & Chinese Cuisine",
@@ -18058,7 +12639,7 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 11:00 AM – 2:30 PM, 4:00 – 8:00 PM",
     "priceLevel": "$",
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 170,
     "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
@@ -18153,7 +12734,7 @@ export const INITIAL_PLACES: Place[] = [
     "enName": "Beijing Noodle House",
     "category": "chinese",
     "subcategory": "中式料理",
-    "city": "Lake Forest",
+    "city": "Irvine",
     "address": "23642 Rockfield Blvd Ste 502, Irvine, CA 92618, USA",
     "lat": 33.629244899999996,
     "lng": -117.7176904,
@@ -18165,7 +12746,7 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 3.9,
     "reviewCount": 98,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
+    "parkingInfo": "Irvine 商圈提供免费地面或立体停车位",
     "dishes": [
       {
         "name": "主厨推荐招牌",
@@ -18175,9 +12756,9 @@ export const INITIAL_PLACES: Place[] = [
     "tags": [
       "Google Maps 数据",
       "高分推荐",
-      "Lake Forest"
+      "Irvine"
     ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
+    "description": "通过 Google Maps Places API 提取的 Irvine 热门亚洲商户。",
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:37:14Z"
@@ -18288,41 +12869,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:14Z"
   },
   {
-    "id": "google_ChIJXR_wVNrr3IARzIgkZjyZNSM",
-    "name": "中式料理",
-    "enName": "Lakeside Chinese Cuisine",
-    "category": "chinese",
-    "subcategory": "中式料理",
-    "city": "Lake Forest",
-    "address": "29880 Santa Margarita Pkwy, Rancho Santa Margarita, CA 92688, USA",
-    "lat": 33.6378169,
-    "lng": -117.6082838,
-    "phone": "(949) 830-2999",
-    "website": "http://www.lakesidechinesecuisine.com/?utm_source=gmb&utm_medium=website",
-    "googleMapsUrl": "https://maps.google.com/?cid=2537102449783900364&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:30 PM",
-    "priceLevel": "$",
-    "rating": 4.0,
-    "reviewCount": 205,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:14Z"
-  },
-  {
     "id": "google_ChIJoQmfgT7p3IARhcHirE5oZY8",
     "name": "风味面馆",
     "enName": "Long's Noodles",
@@ -18393,41 +12939,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:15Z"
   },
   {
-    "id": "google_ChIJLeMeswLp3IAR8OJP-c2Gd20",
-    "name": "点心水饺",
-    "enName": "Min's Dumpling",
-    "category": "chinese",
-    "subcategory": "正宗川菜",
-    "city": "Lake Forest",
-    "address": "26131 La Paz Rd # B3, Mission Viejo, CA 92691, USA",
-    "lat": 33.600518799999996,
-    "lng": -117.67400509999999,
-    "phone": "(949) 328-9186",
-    "website": "https://mdumpling.us/",
-    "googleMapsUrl": "https://maps.google.com/?cid=7887921491571892976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 8:30 PM",
-    "priceLevel": "$",
-    "rating": 4.6,
-    "reviewCount": 121,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:15Z"
-  },
-  {
     "id": "google_ChIJoWKye4bp3IAR54xt62gZdyo",
     "name": "点心水饺",
     "enName": "Sunny Dumpling House",
@@ -18445,76 +12956,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.5,
     "reviewCount": 344,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:16Z"
-  },
-  {
-    "id": "google_ChIJG2LdQ7Pv3IAR6J-kVjLaUrw",
-    "name": "点心水饺",
-    "enName": "SEVEN FOLDING DUMPLING HOUSE",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Lake Forest",
-    "address": "28601 Marguerite Pkwy #1, Mission Viejo, CA 92691, USA",
-    "lat": 33.548595899999995,
-    "lng": -117.6708754,
-    "phone": "(626) 889-3385",
-    "website": "http://www.7folding.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=13570148536957575144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 8:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 136,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:16Z"
-  },
-  {
-    "id": "google_ChIJt2ANGFjr3IARVJ6wyrxVWyY",
-    "name": "粤式早茶点心",
-    "enName": "New Lake Asian House",
-    "category": "chinese",
-    "subcategory": "粤式早茶点心",
-    "city": "Lake Forest",
-    "address": "22431 Antonio Pkwy Ste B-130, Rancho Santa Margarita, CA 92688, USA",
-    "lat": 33.6376485,
-    "lng": -117.59218449999999,
-    "phone": "(949) 264-6034",
-    "website": "https://www.newlakeasianhouse.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=2763897065664716372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 8:30 PM",
-    "priceLevel": "$",
-    "rating": 4.5,
-    "reviewCount": 59,
     "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -18785,8 +13226,8 @@ export const INITIAL_PLACES: Place[] = [
     "subcategory": "东瀛料理",
     "city": "Lake Forest",
     "address": "26612 Towne Centre Dr Unit E, Foothill Ranch, CA 92610, USA",
-    "lat": 33.6752855,
-    "lng": -117.6668344,
+    "lat": 33.6760746,
+    "lng": -117.66813649999997,
     "phone": "(949) 699-3702",
     "website": "https://www.ozensushifhr.com/",
     "googleMapsUrl": "https://maps.google.com/?cid=6262699499460300281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18898,43 +13339,8 @@ export const INITIAL_PLACES: Place[] = [
     "status": "open",
     "hoursText": "Monday: 7:00 AM – 5:30 PM",
     "priceLevel": "$$",
-    "rating": 5.0,
+    "rating": 5,
     "reviewCount": 19,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:18Z"
-  },
-  {
-    "id": "google_ChIJ4wCY1aXp3IARQDhpB9CndrA",
-    "name": "精选寿司",
-    "enName": "Terra Sushi",
-    "category": "japanese",
-    "subcategory": "东瀛料理",
-    "city": "Lake Forest",
-    "address": "27695 Santa Margarita Pkwy A-3, Mission Viejo, CA 92691, USA",
-    "lat": 33.6539875,
-    "lng": -117.64724559999999,
-    "phone": "(949) 273-8107",
-    "website": "http://www.terra-sushi.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12715535109846546496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 276,
     "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -18988,146 +13394,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:18Z"
   },
   {
-    "id": "google_ChIJ6ekZAOTr3IARDhEv-J4zmeg",
-    "name": "精选寿司",
-    "enName": "Nami Sushi Bar",
-    "category": "japanese",
-    "subcategory": "东瀛料理",
-    "city": "Lake Forest",
-    "address": "22245 El Paseo, Rancho Santa Margarita, CA 92688, USA",
-    "lat": 33.6392076,
-    "lng": -117.59410860000001,
-    "phone": "(949) 888-0888",
-    "website": "http://namisushibar.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16760484246097694990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 163,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:18Z"
-  },
-  {
-    "id": "google_ChIJr3I464_o3IARlHJQ_QnceIA",
-    "name": "精选寿司",
-    "enName": "Tomo Sushi",
-    "category": "japanese",
-    "subcategory": "东瀛料理",
-    "city": "Lake Forest",
-    "address": "24338 El Toro Rd B, Laguna Woods, CA 92637, USA",
-    "lat": 33.608623,
-    "lng": -117.73155899999999,
-    "phone": "(949) 462-0855",
-    "website": "http://www.tomosushitogo.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9257390969522778772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 377,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:18Z"
-  },
-  {
-    "id": "google_ChIJPz_fHnbr3IARNbBCGZWY9ug",
-    "name": "正宗日式拉面",
-    "enName": "MOONO",
-    "category": "japanese",
-    "subcategory": "正宗日式拉面",
-    "city": "Lake Forest",
-    "address": "22342 El Paseo f2, Rancho Santa Margarita, CA 92688, USA",
-    "lat": 33.6391898,
-    "lng": -117.59219189999997,
-    "phone": "(949) 888-8979",
-    "website": "http://www.moonokitchen.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=16786772427211452469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 495,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:19Z"
-  },
-  {
-    "id": "google_ChIJaW5umn7p3IARetALWg9wikU",
-    "name": "精选寿司",
-    "enName": "Yama Sushi & Grill",
-    "category": "japanese",
-    "subcategory": "精选手握寿司",
-    "city": "Lake Forest",
-    "address": "27782 Vista Del Lago #22, Mission Viejo, CA 92692, USA",
-    "lat": 33.6317726,
-    "lng": -117.64517149999999,
-    "phone": "(949) 716-9262",
-    "website": "http://www.yamasushionthelake.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=5010940746640642170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 – 9:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 813,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:20Z"
-  },
-  {
     "id": "google_ChIJG2sqmIzp3IARzqd_AMMSClE",
     "name": "炭火烤肉",
     "enName": "Ono Hawaiian BBQ",
@@ -19145,76 +13411,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$",
     "rating": 4.4,
     "reviewCount": 39,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:21Z"
-  },
-  {
-    "id": "google_ChIJGf0Tcwk1w4ARLLJyIdwKJV4",
-    "name": "日式炭火烧肉",
-    "enName": "Wagyu Factory   Rancho Cucamonga",
-    "category": "japanese",
-    "subcategory": "日式炭火烧肉",
-    "city": "Lake Forest",
-    "address": "10890 Foothill Blvd, Rancho Cucamonga, CA 91730, USA",
-    "lat": 34.106912799999996,
-    "lng": -117.5673319,
-    "phone": "(909) 504-1079",
-    "website": "https://chubbygroup.com/project/wagyu-factory-bbq-rancho-cucamonga/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6783840354273767980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 12:00 – 10:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 928,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:21Z"
-  },
-  {
-    "id": "google_ChIJAYDSlWzp3IARIeiso1-mzQc",
-    "name": "日式居酒屋",
-    "enName": "Soba Izakaya MINAMI",
-    "category": "japanese",
-    "subcategory": "日式居酒屋",
-    "city": "Lake Forest",
-    "address": "24391 Avenida De La Carlota Ste A, Laguna Hills, CA 92653, USA",
-    "lat": 33.6077255,
-    "lng": -117.70265669999999,
-    "phone": "(949) 215-5375",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=562288458189301793&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 336,
     "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -19338,146 +13534,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:24Z"
   },
   {
-    "id": "google_ChIJFVQmIK7p3IARMxnHsOK9vY0",
-    "name": "韩式脆皮炸鸡",
-    "enName": "Zach s Chicken",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Lake Forest",
-    "address": "23052 Lake Forest Dr B4, Laguna Hills, CA 92653, USA",
-    "lat": 33.62884,
-    "lng": -117.728835,
-    "phone": "(949) 594-4080",
-    "website": "http://zachschicken.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10213528311272249651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:30 AM – 8:30 PM",
-    "priceLevel": "$",
-    "rating": 4.6,
-    "reviewCount": 126,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:24Z"
-  },
-  {
-    "id": "google_ChIJPx_U_Py33IARgbqyaqxEJSU",
-    "name": "韩式脆皮炸鸡",
-    "enName": "Chimak House Riverside   Korean Fried Chicken & Soul Food",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Lake Forest",
-    "address": "11120 Magnolia Ave Unit a, Riverside, CA 92505, USA",
-    "lat": 33.9027246,
-    "lng": -117.47652,
-    "phone": "(951) 343-1120",
-    "website": "http://chimakhouseriverside.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=2676621060856789633&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 101,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:24Z"
-  },
-  {
-    "id": "google_ChIJu9V8GdzZ4xQRDwKIx-9Mk1o",
-    "name": "韩式脆皮炸鸡",
-    "enName": "Pinoy Pam's Best",
-    "category": "korean",
-    "subcategory": "韩式脆皮炸鸡",
-    "city": "Lake Forest",
-    "address": "23635 El Toro Rd Ste G, Laguna Hills, CA 92653, USA",
-    "lat": 33.6201528,
-    "lng": -117.70415559999998,
-    "phone": "(949) 292-7695",
-    "website": "https://pinoypamsbest.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6526644877718454799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:00 AM – 7:00 PM",
-    "priceLevel": "$",
-    "rating": 4.0,
-    "reviewCount": 446,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:24Z"
-  },
-  {
-    "id": "google_ChIJ01hdvEnv3IARA-3MlkpPDbQ",
-    "name": "越南牛肉粉",
-    "enName": "Pho Saigon Gem",
-    "category": "southeast",
-    "subcategory": "越式传统牛肉粉",
-    "city": "Lake Forest",
-    "address": "26548 Moulton Pkwy Ste M, Laguna Hills, CA 92653, USA",
-    "lat": 33.577457599999995,
-    "lng": -117.70086639999998,
-    "phone": "(949) 328-9782",
-    "website": "https://www.saigongem.grubviet.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12974113283300453635&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 139,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:25Z"
-  },
-  {
     "id": "google_ChIJSVOeIF7o3IARnNxxM6xRdOQ",
     "name": "正宗泰式风味",
     "enName": "Bhan Baitong",
@@ -19583,41 +13639,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:26Z"
   },
   {
-    "id": "google_ChIJKdsBemvp3IARwSwI7SVl8aI",
-    "name": "泰式料理",
-    "enName": "SIAM Thai Kitchen   Mission Viejo",
-    "category": "southeast",
-    "subcategory": "正宗泰式风味",
-    "city": "Lake Forest",
-    "address": "25571 Jeronimo Rd #8, Mission Viejo, CA 92691, USA",
-    "lat": 33.6229134,
-    "lng": -117.6834647,
-    "phone": "(949) 600-7730",
-    "website": "https://www.siamthaica.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=11741276917096524993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 157,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:26Z"
-  },
-  {
     "id": "google_ChIJMX0jq_vp3IARKRyywIavbuc",
     "name": "泰式料理",
     "enName": "Thai Garden",
@@ -19670,181 +13691,6 @@ export const INITIAL_PLACES: Place[] = [
     "priceLevel": "$$",
     "rating": 4.6,
     "reviewCount": 100,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
-    "id": "google_ChIJu3t0sKrp3IARndKe3cTqN-4",
-    "name": "亚洲综合生鲜超市",
-    "enName": "Daiso   Japanese Household Goods",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Lake Forest",
-    "address": "23608 El Toro Rd M2-B, Lake Forest, CA 92630, USA",
-    "lat": 33.6186163,
-    "lng": -117.7005615,
-    "phone": "(949) 393-7046",
-    "website": "https://daisous.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17165446635998597789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 10:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 492,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
-    "id": "google_ChIJj5jzhinp3IARSuGj-jeYW4c",
-    "name": "亚洲商超",
-    "enName": "Good Food International Market",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Lake Forest",
-    "address": "25565 Jeronimo Rd Unit 2, Mission Viejo, CA 92691, USA",
-    "lat": 33.6235574,
-    "lng": -117.6840131,
-    "phone": "(949) 775-9773",
-    "website": "https://goodfoodmarket.store/",
-    "googleMapsUrl": "https://maps.google.com/?cid=9753556784196608330&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 9:00 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 65,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
-    "id": "google_ChIJFbGNowjp3IAR7y1UKjTjrAs",
-    "name": "亚洲商超",
-    "enName": "Mission Ranch Market",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Lake Forest",
-    "address": "23166 Los Alisos Blvd #116, Mission Viejo, CA 92691, USA",
-    "lat": 33.6262665,
-    "lng": -117.67741389999999,
-    "phone": "(949) 707-5879",
-    "website": "http://www.missionranchmarkets.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=841297043599404527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 3465,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
-    "id": "google_ChIJ2672742X3IARRvRtTrJOrPg",
-    "name": "亚洲综合生鲜超市",
-    "enName": "Nosh Island",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Lake Forest",
-    "address": "16331 Lakeshore Dr Ste E, Lake Elsinore, CA 92530, USA",
-    "lat": 33.6899722,
-    "lng": -117.37627349999998,
-    "phone": "(760) 421-5417",
-    "website": "https://noshislandlakeelsinore.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=17918783545127334982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:30 AM – 8:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 10,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
-    "id": "google_ChIJTSLOM4_u3IARBoq3smMEFY4",
-    "name": "亚洲商超",
-    "enName": "Crown Valley Market",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Lake Forest",
-    "address": "27771 Center Dr, Mission Viejo, CA 92692, USA",
-    "lat": 33.5586115,
-    "lng": -117.6571518,
-    "phone": "(949) 340-1010",
-    "website": "http://crownvalleymarket.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10238094154143336966&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 8:30 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 1023,
     "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
     "dishes": [
       {
@@ -19940,8 +13786,8 @@ export const INITIAL_PLACES: Place[] = [
     "subcategory": "亚洲综合生鲜超市",
     "city": "Lake Forest",
     "address": "24374 Muirlands Blvd, Lake Forest, CA 92630, USA",
-    "lat": 33.627826299999995,
-    "lng": -117.70409180000001,
+    "lat": 33.6272387,
+    "lng": -117.70436289999998,
     "phone": "(949) 500-5271",
     "website": "https://www.instagram.com/negahmedia",
     "googleMapsUrl": "https://maps.google.com/?cid=9758085940677944391&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -20003,41 +13849,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:27Z"
   },
   {
-    "id": "google_ChIJ7zLEPvHo3IARmxxiRHk-oJE",
-    "name": "亚洲商超",
-    "enName": "Lake Forest Marketplace",
-    "category": "market",
-    "subcategory": "亚洲综合生鲜超市",
-    "city": "Lake Forest",
-    "address": "23785 El Toro Rd, Lake Forest, CA 92630, USA",
-    "lat": 33.6178178,
-    "lng": -117.70629829999999,
-    "phone": "(224) 200-4230",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=10493455822332501147&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 622,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
     "id": "google_ChIJc1Xb0Pno3IARVlMn9aRIGj0",
     "name": "亚洲商超",
     "enName": "La Valentina Market",
@@ -20071,76 +13882,6 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:37:27Z"
-  },
-  {
-    "id": "google_ChIJI_0wW9_o3IARaC35bjMRZ7Q",
-    "name": "亚洲商超",
-    "enName": "Jordan Market",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Lake Forest",
-    "address": "24771 Alicia Pkwy # A, Laguna Hills, CA 92653, USA",
-    "lat": 33.6028145,
-    "lng": -117.69276590000001,
-    "phone": "(949) 770-3111",
-    "website": "http://www.jordanmarket.net/",
-    "googleMapsUrl": "https://maps.google.com/?cid=12999377762031054184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:30 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 576,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:28Z"
-  },
-  {
-    "id": "google_ChIJiaZlgvDo3IAR84wyE5J2c3c",
-    "name": "华人大型超市",
-    "enName": "The Orchard",
-    "category": "market",
-    "subcategory": "华人大型超市",
-    "city": "Lake Forest",
-    "address": "23600 El Toro Rd, Lake Forest, CA 92630, USA",
-    "lat": 33.6195501,
-    "lng": -117.7011857,
-    "phone": "",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=8607353682594532595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 5:00 AM – 1:00 AM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 1601,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:28Z"
   },
   {
     "id": "google_ChIJ-QfSGAnp3IAR0F-QKkwooiM",
@@ -20213,41 +13954,6 @@ export const INITIAL_PLACES: Place[] = [
     "addedAt": "2026-08-23T21:37:31Z"
   },
   {
-    "id": "google_ChIJE-1_Dlrp3IARJ6dAgxmKsFY",
-    "name": "原叶茶饮",
-    "enName": "MOMOT Tea House   Boba & Korean Corn Dogs",
-    "category": "dessert_tea",
-    "subcategory": "新式原叶茶饮",
-    "city": "Lake Forest",
-    "address": "27744 Santa Margarita Pkwy, Mission Viejo, CA 92691, USA",
-    "lat": 33.6511247,
-    "lng": -117.64616170000001,
-    "phone": "(949) 682-5506",
-    "website": "https://www.momotteahouse.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=6246644525343745831&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 11:00 AM – 9:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 110,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:31Z"
-  },
-  {
     "id": "google_ChIJfbp2qEfr3IARvQ-j4BaJfSk",
     "name": "手作烘焙面包",
     "enName": "Little Something Sweet",
@@ -20281,180 +13987,5 @@ export const INITIAL_PLACES: Place[] = [
     "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
     "isCustomAdded": true,
     "addedAt": "2026-08-23T21:37:32Z"
-  },
-  {
-    "id": "google_ChIJDah8L2Xo3IARMEVlgpbrWM8",
-    "name": "烘焙工坊",
-    "enName": "Sweet Lili's Bakery",
-    "category": "dessert_tea",
-    "subcategory": "手作烘焙面包",
-    "city": "Lake Forest",
-    "address": "23016 Lake Forest Dr # A, Laguna Hills, CA 92653, USA",
-    "lat": 33.627763699999996,
-    "lng": -117.7246548,
-    "phone": "(949) 716-5474",
-    "website": "http://sweetlilis.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=14940950795466917168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.8,
-    "reviewCount": 508,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:32Z"
-  },
-  {
-    "id": "google_ChIJQTB9KMvp3IARtQ5ZEGZ-HCE",
-    "name": "手作烘焙面包",
-    "enName": "Diotima Bakehouse",
-    "category": "dessert_tea",
-    "subcategory": "手作烘焙面包",
-    "city": "Lake Forest",
-    "address": "25542 Jeronimo Rd, Mission Viejo, CA 92691, USA",
-    "lat": 33.6217897,
-    "lng": -117.6845966,
-    "phone": "",
-    "website": "http://www.diotimabakehouse.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=2385920879425556149&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: Closed",
-    "priceLevel": "$$",
-    "rating": 4.9,
-    "reviewCount": 224,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:32Z"
-  },
-  {
-    "id": "google_ChIJXREC_JHp3IARxPtnHEYbH_g",
-    "name": "烘焙工坊",
-    "enName": "Vanilla Street Bakery",
-    "category": "dessert_tea",
-    "subcategory": "手作烘焙面包",
-    "city": "Lake Forest",
-    "address": "22972 Moulton Pkwy Ste 101, Laguna Hills, CA 92653, USA",
-    "lat": 33.6287145,
-    "lng": -117.72968829999999,
-    "phone": "(949) 517-8141",
-    "website": "",
-    "googleMapsUrl": "https://maps.google.com/?cid=17879039033622395844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:00 AM – 7:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 289,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:32Z"
-  },
-  {
-    "id": "google_ChIJfyMvp-jo3IAR4iB8ye5Y0JE",
-    "name": "烘焙工坊",
-    "enName": "Scratch Bakery Cafe",
-    "category": "dessert_tea",
-    "subcategory": "手作烘焙面包",
-    "city": "Lake Forest",
-    "address": "24321 Avenida De La Carlota, Laguna Hills, CA 92653, USA",
-    "lat": 33.608452299999996,
-    "lng": -117.70263910000001,
-    "phone": "(949) 859-2253",
-    "website": "https://www.scratchbakerycafe.com/",
-    "googleMapsUrl": "https://maps.google.com/?cid=10506995713261183202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 7:00 AM – 5:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.4,
-    "reviewCount": 653,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:32Z"
-  },
-  {
-    "id": "google_ChIJO6HiJw_v3IARrQw6Wrt1Ti4",
-    "name": "烘焙工坊",
-    "enName": "Little France Coffee & Bakery",
-    "category": "dessert_tea",
-    "subcategory": "日式轻乳酪甜品",
-    "city": "Lake Forest",
-    "address": "28181 Marguerite Pkwy #21, Mission Viejo, CA 92691, USA",
-    "lat": 33.5542599,
-    "lng": -117.67121309999999,
-    "phone": "(949) 218-4327",
-    "website": "https://littlefrance.org/?utm_source=google",
-    "googleMapsUrl": "https://maps.google.com/?cid=3336733821461204141&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "status": "open",
-    "hoursText": "Monday: 8:00 AM – 4:00 PM",
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 883,
-    "parkingInfo": "Lake Forest 商圈提供免费地面或立体停车位",
-    "dishes": [
-      {
-        "name": "主厨推荐招牌",
-        "tag": "Google热门推荐"
-      }
-    ],
-    "tags": [
-      "Google Maps 数据",
-      "高分推荐",
-      "Lake Forest"
-    ],
-    "description": "通过 Google Maps Places API 提取的 Lake Forest 热门亚洲商户。",
-    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    "isCustomAdded": true,
-    "addedAt": "2026-08-23T21:37:33Z"
   }
 ];
