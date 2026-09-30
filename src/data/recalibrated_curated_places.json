@@ -1,0 +1,2048 @@
+[
+  {
+    "id": "h_mart_westpark_irvine",
+    "name": "H Mart 韩国生鲜超市",
+    "enName": "H Mart - Irvine Westpark",
+    "category": "market",
+    "subcategory": "大型韩国生鲜生活超市 / 美食街",
+    "city": "Irvine",
+    "address": "3825 Alton Pkwy, Irvine, CA 92606, USA",
+    "lat": 33.683748699999995,
+    "lng": -117.81383269999999,
+    "phone": "(949) 265-8585",
+    "website": "https://www.hmart.com/storelocator/index/index/id/110/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11400488271786804908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 668,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "h_mart_irvine_diamond",
+    "name": "H Mart 韩国生鲜超市",
+    "enName": "H Mart - Irvine Diamond Jamboree",
+    "category": "market",
+    "subcategory": "大型韩国生鲜超市 / 美食熟食",
+    "city": "Irvine",
+    "address": "2600 Alton Pkwy, Irvine, CA 92606, USA",
+    "lat": 33.6893004,
+    "lng": -117.83446420000001,
+    "phone": "(949) 833-0111",
+    "website": "https://gift.hmart.com/storelocator/index/index/id/13/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11333091801068136899&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 3612,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "h_mart_northpark_irvine",
+    "name": "H Mart 韩国生鲜超市",
+    "enName": "H Mart - Irvine Northpark",
+    "category": "market",
+    "subcategory": "大型韩国生活生鲜超市",
+    "city": "Irvine",
+    "address": "3931 Irvine Blvd, Irvine, CA 92602, USA",
+    "lat": 33.724199999999996,
+    "lng": -117.77231859999999,
+    "phone": "(949) 739-7474",
+    "website": "https://www.hmart.com/store/irvine-northpark-ca-92602/4c757b52-3628-4406-b7f6-2aa18bb2e143?has_food_court=true&message=",
+    "googleMapsUrl": "https://maps.google.com/?cid=15441611333163775156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 548,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "99_ranch_culver_irvine",
+    "name": "99大华超级市场",
+    "enName": "99 Ranch Market - Culver Plaza",
+    "category": "market",
+    "subcategory": "大型华人综合生鲜超市 / 活海鲜",
+    "city": "Irvine",
+    "address": "15333 Culver Dr Ste 800, Irvine, CA 92604, USA",
+    "lat": 33.6964284,
+    "lng": -117.7983519,
+    "phone": "(949) 651-8899",
+    "website": "https://www.99ranch.com/my-store/store-locator#!/?distance=25&q=92604",
+    "googleMapsUrl": "https://maps.google.com/?cid=3850076847112268544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.1,
+    "reviewCount": 1661,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "99_ranch_walnut_irvine",
+    "name": "99大华超级市场",
+    "enName": "99 Ranch Market - Walnut Village",
+    "category": "market",
+    "subcategory": "大型华人综合生活超市",
+    "city": "Irvine",
+    "address": "Orange Tree Square Shopping Center, 5402 Walnut Ave, Irvine, CA 92604, USA",
+    "lat": 33.6904189,
+    "lng": -117.76970249999998,
+    "phone": "(949) 552-8899",
+    "website": "https://www.99ranch.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=18310274236269386530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.0,
+    "reviewCount": 1363,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "99_ranch_tustin",
+    "name": "99大华超级市场",
+    "enName": "99 Ranch Market - Tustin",
+    "category": "market",
+    "subcategory": "大型华人综合超市 / 新鲜蔬果肉品",
+    "city": "Tustin",
+    "address": "550 E 1st St, Tustin, CA 92780, USA",
+    "lat": 33.7434665,
+    "lng": -117.81757970000001,
+    "phone": "(714) 367-2888",
+    "website": "https://www.99ranch.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=2205185698206527023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.2,
+    "reviewCount": 260,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "99_ranch_costa_mesa",
+    "name": "99大华超级市场",
+    "enName": "99 Ranch Market - Costa Mesa",
+    "category": "market",
+    "subcategory": "大型华人综合超市 / 亚洲调味生鲜",
+    "city": "Costa Mesa",
+    "address": "2651 Irvine Ave, Costa Mesa, CA 92627, USA",
+    "lat": 33.6577778,
+    "lng": -117.8858333,
+    "phone": "(949) 631-4404",
+    "website": "http://irvineranchmarketoc.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=15281039834301047046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 7:30 AM – 8:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 384,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "mitsuwa_marketplace_costa_mesa",
+    "name": "三和日本生鲜生活超市",
+    "enName": "Mitsuwa Marketplace - Costa Mesa",
+    "category": "market",
+    "subcategory": "大型日本生鲜超市 / 殿堂级美食街",
+    "city": "Costa Mesa",
+    "address": "665 Paularino Ave, Costa Mesa, CA 92626, USA",
+    "lat": 33.6814,
+    "lng": -117.88400000000001,
+    "phone": "(714) 557-6699",
+    "website": "https://mitsuwa.com/cm/",
+    "googleMapsUrl": "https://maps.google.com/?cid=16570214804580185057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 9:00 AM – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.6,
+    "reviewCount": 5192,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "mitsuwa_marketplace_irvine",
+    "name": "三和日本生鲜生活超市",
+    "enName": "Mitsuwa Marketplace - Irvine Heritage",
+    "category": "market",
+    "subcategory": "精品日本生鲜生活超市",
+    "city": "Irvine",
+    "address": "14230 Culver Dr, Irvine, CA 92604, USA",
+    "lat": 33.7067301,
+    "lng": -117.78333130000001,
+    "phone": "(949) 559-6633",
+    "website": "https://mitsuwa.com/ir",
+    "googleMapsUrl": "https://maps.google.com/?cid=5596103905639244086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 9:00 AM – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 1383,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tokyo_central_tustin",
+    "name": "东京中央日本超市",
+    "enName": "Tokyo Central - Tustin The District",
+    "category": "market",
+    "subcategory": "大型日本生活超市 / 熟食街 / 和牛代煎",
+    "city": "Tustin",
+    "address": "14120 Culver Dr, Irvine, CA 92604, USA",
+    "lat": 33.708226599999996,
+    "lng": -117.7821346,
+    "phone": "(657) 395-3010",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=11443906463461922416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.2,
+    "reviewCount": 223,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tokyo_central_costa_mesa",
+    "name": "东京中央日本超市",
+    "enName": "Tokyo Central - Costa Mesa Harbor",
+    "category": "market",
+    "subcategory": "大型日本生活超市 / 生鲜刺身",
+    "city": "Costa Mesa",
+    "address": "2975 Harbor Blvd, Costa Mesa, CA 92626, USA",
+    "lat": 33.6797294,
+    "lng": -117.920639,
+    "phone": "(714) 751-8433",
+    "website": "https://www.tokyocentral.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11255188733789578439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.6,
+    "reviewCount": 3213,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "zion_market_irvine",
+    "name": "锡安韩国超级市场",
+    "enName": "Zion Market - Irvine Northwood",
+    "category": "market",
+    "subcategory": "大型韩国生鲜平价超市 / 小吃街",
+    "city": "Irvine",
+    "address": "4800 Irvine Blvd, Irvine, CA 92620, USA",
+    "lat": 33.712302099999995,
+    "lng": -117.76078000000001,
+    "phone": "(714) 832-5600",
+    "website": "https://zionmarket.com/location",
+    "googleMapsUrl": "https://maps.google.com/?cid=11927074597309970562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.1,
+    "reviewCount": 2094,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "haidilao_irvine",
+    "name": "海底捞火锅",
+    "enName": "Haidilao Hot Pot - Irvine",
+    "category": "chinese",
+    "subcategory": "火锅 / 串串 / 极致服务",
+    "city": "Irvine",
+    "address": "2710 Alton Pkwy #215, Irvine, CA 92606, USA",
+    "lat": 33.6878354,
+    "lng": -117.83423169999999,
+    "phone": "(949) 868-5888",
+    "website": "https://www.haidilao-inc.com/us",
+    "googleMapsUrl": "https://maps.google.com/?cid=5215656870271301967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 12:00 AM",
+    "priceLevel": "$$",
+    "rating": 4.8,
+    "reviewCount": 3686,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tai_er_irvine",
+    "name": "太二酸菜鱼",
+    "enName": "Tai Er Sauerkraut Fish - Irvine",
+    "category": "chinese",
+    "subcategory": "经典川菜 / 老坛酸菜鱼",
+    "city": "Irvine",
+    "address": "14370 Culver Dr Ste F, Irvine, CA 92604, USA",
+    "lat": 33.70542,
+    "lng": -117.78457809999999,
+    "phone": "(949) 932-0057",
+    "website": "http://cheftiansrestaurant.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=10584517397417852765&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 47,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "sichuan_impression_tustin",
+    "name": "锦城里川菜",
+    "enName": "Sichuan Impression - Tustin",
+    "category": "chinese",
+    "subcategory": "正宗川菜 / 米其林必比登",
+    "city": "Tustin",
+    "address": "13816 Red Hill Ave, Tustin, CA 92780, USA",
+    "lat": 33.73516,
+    "lng": -117.8121929,
+    "phone": "(714) 505-9070",
+    "website": "https://www.sichuanimpressions.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=16186987512438947003&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:30 AM – 2:30 PM, 5:00 – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1025,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "din_tai_fung_south_coast",
+    "name": "鼎泰丰小笼包",
+    "enName": "Din Tai Fung - South Coast Plaza",
+    "category": "chinese",
+    "subcategory": "台湾菜 / 小笼点心 / 米其林星级",
+    "city": "Costa Mesa",
+    "address": "3333 Bristol St, Costa Mesa, CA 92626, USA",
+    "lat": 33.6917835,
+    "lng": -117.88797449999998,
+    "phone": "(714) 549-3388",
+    "website": "https://dtf.com/en/locations/costa-mesa",
+    "googleMapsUrl": "https://maps.google.com/?cid=9377048601226208691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 10:30 AM – 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 4376,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "paradise_dynasty_costa_mesa",
+    "name": "乐天皇朝八色小笼",
+    "enName": "Paradise Dynasty - South Coast Plaza",
+    "category": "chinese",
+    "subcategory": "精致江南点心 / 八色小笼包",
+    "city": "Costa Mesa",
+    "address": "3333 Bristol Street, BLM, 1 Bloomingdale's, Costa Mesa, CA 92626, USA",
+    "lat": 33.6887216,
+    "lng": -117.8880952,
+    "phone": "(714) 617-4630",
+    "website": "https://www.paradisegp.com/usa/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12954073190420504808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 875,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "northern_cafe_irvine",
+    "name": "颐丰园 (北方小馆)",
+    "enName": "Northern Cafe - Irvine UTC",
+    "category": "chinese",
+    "subcategory": "北方面点 / 水饺牛肉卷饼 / 颐丰园",
+    "city": "Irvine",
+    "address": "4175 Campus Dr, Irvine, CA 92612, USA",
+    "lat": 33.6509961,
+    "lng": -117.8390008,
+    "phone": "(949) 418-7309",
+    "website": "https://www.northerncafeirvine.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=10645027120852039420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 412,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "j_zhou_oriental_tustin",
+    "name": "周舍东方料理",
+    "enName": "J.Zhou Oriental Cuisine - The District",
+    "category": "chinese",
+    "subcategory": "高端粤菜 / 早茶点心 / 海鲜大餐",
+    "city": "Tustin",
+    "address": "2601 Park Ave, Tustin, CA 92782, USA",
+    "lat": 33.6979246,
+    "lng": -117.8265023,
+    "phone": "(714) 258-0888",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=8906873187320371433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:30 – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 3.9,
+    "reviewCount": 885,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "a_and_j_restaurant_irvine",
+    "name": "半亩园面点",
+    "enName": "A&J Restaurant - Walnut Center",
+    "category": "chinese",
+    "subcategory": "经典台式面点 / 红烧牛肉面",
+    "city": "Irvine",
+    "address": "14805 Jeffrey Rd, Irvine, CA 92618, USA",
+    "lat": 33.6881268,
+    "lng": -117.7715063,
+    "phone": "(949) 786-3585",
+    "website": "http://aj-restaurant.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7575701138441931691&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:30 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 1171,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "capital_seafood_irvine_spectrum",
+    "name": "凯悦海鲜酒家",
+    "enName": "Capital Seafood - Irvine Spectrum",
+    "category": "chinese",
+    "subcategory": "传统粤菜 / 早茶海鲜",
+    "city": "Irvine",
+    "address": "770 Spectrum Center Dr Ste 770, Irvine, CA 92618, USA",
+    "lat": 33.6493898,
+    "lng": -117.74340980000001,
+    "phone": "(949) 788-9218",
+    "website": "http://linktr.ee/capitalseafood",
+    "googleMapsUrl": "https://maps.google.com/?cid=9219126723550490358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 3.8,
+    "reviewCount": 1520,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tasty_garden_irvine",
+    "name": "稻香茶餐厅",
+    "enName": "Tasty Garden - Irvine Heritage",
+    "category": "chinese",
+    "subcategory": "粤港风味 / 港式茶餐厅",
+    "city": "Irvine",
+    "address": "15315 Culver Dr #140, Irvine, CA 92604, USA",
+    "lat": 33.6973779,
+    "lng": -117.7989828,
+    "phone": "(949) 786-8000",
+    "website": "https://order.aipocketstore.com/?merchId=5b36559b-615a-4554-8fe6-5875ba4bef10",
+    "googleMapsUrl": "https://maps.google.com/?cid=4102967730247550513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.0,
+    "reviewCount": 688,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "meizhou_dongpo_irvine",
+    "name": "眉州东坡酒楼",
+    "enName": "Meizhou Dongpo - Irvine Culver",
+    "category": "chinese",
+    "subcategory": "正宗川菜 / 北京果木烤鸭",
+    "city": "Irvine",
+    "address": "15363 Culver Dr Ste 15363, Irvine, CA 92604, USA",
+    "lat": 33.6946681,
+    "lng": -117.7985205,
+    "phone": "(949) 433-5686",
+    "website": "https://www.meizhou.us.com/irvine",
+    "googleMapsUrl": "https://maps.google.com/?cid=10882730512557839943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:30 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.0,
+    "reviewCount": 752,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tim_ho_wan_irvine",
+    "name": "添好运港式点心",
+    "enName": "Tim Ho Wan - Diamond Jamboree",
+    "category": "chinese",
+    "subcategory": "粤式早茶 / 酥皮叉烧包",
+    "city": "Irvine",
+    "address": "2700 Alton Pkwy Suite 127-131, Irvine, CA 92606, USA",
+    "lat": 33.6882716,
+    "lng": -117.83382840000002,
+    "phone": "(949) 703-0770",
+    "website": "https://www.timhowan.com/stores/usa",
+    "googleMapsUrl": "https://maps.google.com/?cid=7025674403613654666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 1241,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tasty_noodle_house_irvine",
+    "name": "美味生煎",
+    "enName": "Tasty Noodle House - Irvine Culver",
+    "category": "chinese",
+    "subcategory": "江浙沪风味 / 生煎面点 / 本帮菜",
+    "city": "Irvine",
+    "address": "15333 Culver Dr #320, Irvine, CA 92604, USA",
+    "lat": 33.6960666,
+    "lng": -117.79935080000001,
+    "phone": "(949) 654-3770",
+    "website": "https://www.tastynoodlehouse.us/",
+    "googleMapsUrl": "https://maps.google.com/?cid=18214239744682137707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:00 – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.0,
+    "reviewCount": 346,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "bafang_dumpling_culver",
+    "name": "八方云集水饺锅贴",
+    "enName": "Bafang Dumpling - Culver Plaza",
+    "category": "chinese",
+    "subcategory": "台湾国民小吃 / 冰花锅贴水饺",
+    "city": "Irvine",
+    "address": "5410 Walnut Ave, Irvine, CA 92604, USA",
+    "lat": 33.6890204,
+    "lng": -117.7698852,
+    "phone": "(949) 898-6990",
+    "website": "https://www.bafangdumpling.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=14516451707861545942&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 10:00 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 127,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "boiling_point_irvine",
+    "name": "沸点臭臭锅",
+    "enName": "Boiling Point - Irvine Heritage",
+    "category": "chinese",
+    "subcategory": "台式单人小火锅 / 臭臭锅",
+    "city": "Irvine",
+    "address": "14140 Culver Dr, Irvine, CA 92604, USA",
+    "lat": 33.7074187,
+    "lng": -117.7826251,
+    "phone": "(949) 733-2211",
+    "website": "https://www.bpgroupusa.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=1668501928454051689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 3.9,
+    "reviewCount": 992,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "yin_tang_lake_forest",
+    "name": "隐烫骨汤麻辣烫",
+    "enName": "Yin Tang Spicy Hot Pot - Lake Forest",
+    "category": "chinese",
+    "subcategory": "自选骨汤麻辣烫 / 骨汤香浓",
+    "city": "Lake Forest",
+    "address": "5408 Walnut Ave B, Irvine, CA 92618, USA",
+    "lat": 33.6896327,
+    "lng": -117.7693623,
+    "phone": "(949) 818-7888",
+    "website": "https://www.ytirvine.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12927341050871615119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 12:00 AM",
+    "priceLevel": "$$",
+    "rating": 4.0,
+    "reviewCount": 121,
+    "parkingInfo": "Lake Forest 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Lake Forest"
+    ],
+    "description": "精选 Lake Forest 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "class_302_irvine",
+    "name": "三年二班台式小吃",
+    "enName": "Class 302 Cafe - The Market Place",
+    "category": "chinese",
+    "subcategory": "台湾铁路便当 / 珍珠奶茶",
+    "city": "Irvine",
+    "address": "13252 Jamboree Rd, Irvine, CA 92602, USA",
+    "lat": 33.7276953,
+    "lng": -117.78620949999998,
+    "phone": "(714) 771-5319",
+    "website": "https://class302.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=15194705429379473837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 11:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 628,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "101_noodle_express_irvine",
+    "name": "山东大馅牛肉卷饼",
+    "enName": "101 Noodle Express - Walnut Village",
+    "category": "chinese",
+    "subcategory": "山东大馅水饺 / 牛肉卷饼",
+    "city": "Irvine",
+    "address": "5408 Walnut Ave # A, Irvine, CA 92618, USA",
+    "lat": 33.689689900000005,
+    "lng": -117.7692814,
+    "phone": "(949) 654-8542",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=5624332703993122189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "11:00 AM - 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.0,
+    "reviewCount": 296,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "anjin_costa_mesa",
+    "name": "安神日式炭火烧肉",
+    "enName": "Anjin Japanese BBQ - Costa Mesa",
+    "category": "japanese",
+    "subcategory": "高级日式炭火烧肉 / 排队神店",
+    "city": "Costa Mesa",
+    "address": "3033 Bristol St, Costa Mesa, CA 92626, USA",
+    "lat": 33.6818178,
+    "lng": -117.88662740000001,
+    "phone": "(714) 979-6700",
+    "website": "https://anjinrestaurant.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=138760346984126046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 5:00 PM – 1:00 AM",
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 606,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "santouka_ramen_costa_mesa",
+    "name": "山头火北海道豚骨拉面",
+    "enName": "Hokkaido Ramen Santouka - Costa Mesa",
+    "category": "japanese",
+    "subcategory": "北海道正宗豚骨拉面 / 猪颊肉",
+    "city": "Costa Mesa",
+    "address": "665 Paularino Ave, Costa Mesa, CA 92626, USA",
+    "lat": 33.6812438,
+    "lng": -117.8843311,
+    "phone": "(714) 434-1101",
+    "website": "http://www.santouka.co.jp/en/shop-foreign#tab1",
+    "googleMapsUrl": "https://maps.google.com/?cid=10779073106619305142&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 7:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 314,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "hironori_craft_ramen_irvine",
+    "name": "弘典手工精酿拉面",
+    "enName": "HiroNori Craft Ramen - Irvine",
+    "category": "japanese",
+    "subcategory": "米其林必比登推荐 / 手工拉面",
+    "city": "Irvine",
+    "address": "2222 Michelson Dr #234, Irvine, CA 92612, USA",
+    "lat": 33.6763104,
+    "lng": -117.85559619999998,
+    "phone": "(949) 536-5800",
+    "website": "https://hironori.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=8739717908117716858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 2500,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "shin_sen_gumi_irvine",
+    "name": "新撰组博多拉面",
+    "enName": "Shin-Sen-Gumi Hakata Ramen - Irvine",
+    "category": "japanese",
+    "subcategory": "博多豚骨拉面 / 居酒屋",
+    "city": "Irvine",
+    "address": "6404 Irvine Blvd, Irvine, CA 92620, USA",
+    "lat": 33.698090799999996,
+    "lng": -117.74091349999999,
+    "phone": "(949) 596-7036",
+    "website": "http://www.shinsengumigroup.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=1921887958139145717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 859,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "kaneko_hannosuke_costa_mesa",
+    "name": "Hannosuke Costa Mesa",
+    "enName": "Hannosuke Tempura - Costa Mesa",
+    "category": "japanese",
+    "subcategory": "天妇罗丼 / 穴子星鳗盖饭",
+    "city": "Costa Mesa",
+    "address": "1170 Baker St G2, Costa Mesa, CA 92626, USA",
+    "lat": 33.68094,
+    "lng": -117.9064797,
+    "phone": "(714) 617-4045",
+    "website": "https://www.ka-don.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=13173701365606023669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: Closed",
+    "priceLevel": "$$",
+    "rating": 4.8,
+    "reviewCount": 41,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "nana_san_newport",
+    "name": "七三寿司割烹",
+    "enName": "Nana San Sushi - Newport Beach",
+    "category": "japanese",
+    "subcategory": "高级寿司 / 日本直运鲜鱼",
+    "city": "Newport Beach",
+    "address": "3601 Jamboree Rd, Newport Beach, CA 92660, USA",
+    "lat": 33.656842,
+    "lng": -117.86483829999999,
+    "phone": "(949) 474-7373",
+    "website": "https://www.facebook.com/pages/Nana-San-Sushi/154521021229608",
+    "googleMapsUrl": "https://maps.google.com/?cid=306406748322161440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:30 AM – 2:00 PM, 5:30 – 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 371,
+    "parkingInfo": "Newport Beach 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Newport Beach"
+    ],
+    "description": "精选 Newport Beach 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "marugame_udon_costa_mesa",
+    "name": "丸龟制面赞岐乌冬",
+    "enName": "Marugame Udon - South Coast Plaza",
+    "category": "japanese",
+    "subcategory": "手作赞岐乌冬面 / 炸天妇罗",
+    "city": "Costa Mesa",
+    "address": "3333 Bristol St, Costa Mesa, CA 92626, USA",
+    "lat": 33.691628,
+    "lng": -117.88780529999998,
+    "phone": "(714) 619-5688",
+    "website": "https://www.marugameudon.com/?olonwp=JjBtp_vMLk25gkYh_bnoiQ",
+    "googleMapsUrl": "https://maps.google.com/?cid=11327629487851586690&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 809,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "kitakata_ramen_costa_mesa",
+    "name": "喜多方坂内手工拉面",
+    "enName": "Kitakata Ramen Ban Nai - Costa Mesa",
+    "category": "japanese",
+    "subcategory": "清汤手工卷曲拉面 / 铺满叉烧",
+    "city": "Costa Mesa",
+    "address": "891 Baker St B21, Costa Mesa, CA 92626, USA",
+    "lat": 33.6794523,
+    "lng": -117.89377209999999,
+    "phone": "(714) 557-2947",
+    "website": "https://ramenbannai.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=3095548944288427112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 1265,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "gyu_kaku_tustin",
+    "name": "牛角日式炭火烤肉",
+    "enName": "Gyu-Kaku Japanese BBQ - Tustin",
+    "category": "japanese",
+    "subcategory": "日式炭火烤肉 / 居酒屋 / 无烟烤炉",
+    "city": "Tustin",
+    "address": "14181 Newport Ave, Tustin, CA 92780, USA",
+    "lat": 33.734702399999996,
+    "lng": -117.82592969999999,
+    "phone": "(714) 731-1719",
+    "website": "http://www.gyu-kaku.com/tustin",
+    "googleMapsUrl": "https://maps.google.com/?cid=3743136185384935341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "11:00 AM - 9:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 925,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "nobu_newport_beach",
+    "name": "NOBU 新港滩殿堂日料",
+    "enName": "Nobu - Newport Beach Lido",
+    "category": "japanese",
+    "subcategory": "高级日式融合 / 海景码头 / 黑鳕鱼",
+    "city": "Newport Beach",
+    "address": "3450 Via Oporto #101, Newport Beach, CA 92663, USA",
+    "lat": 33.619552899999995,
+    "lng": -117.92875919999999,
+    "phone": "(949) 429-4440",
+    "website": "https://www.noburestaurants.com/newportbeach/home/?utm_source=google&utm_medium=Yext",
+    "googleMapsUrl": "https://maps.google.com/?cid=5085340620087074742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 5:00 – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1187,
+    "parkingInfo": "Newport Beach 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Newport Beach"
+    ],
+    "description": "精选 Newport Beach 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "kura_sushi_irvine",
+    "name": "藏寿司回转寿司",
+    "enName": "Kura Revolving Sushi - Diamond Jamboree",
+    "category": "japanese",
+    "subcategory": "日本回转寿司 / 扭蛋抽奖",
+    "city": "Irvine",
+    "address": "2700 Alton Pkwy #133, Irvine, CA 92606, USA",
+    "lat": 33.6884843,
+    "lng": -117.83379269999999,
+    "phone": "(949) 553-0747",
+    "website": "https://kurasushi.com/locations/irvine-ca/",
+    "googleMapsUrl": "https://maps.google.com/?cid=2746840308487925090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 1230,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "baekjeong_irvine",
+    "name": "姜虎东白丁韩式烤肉",
+    "enName": "Baekjeong Korean BBQ - Irvine",
+    "category": "korean",
+    "subcategory": "正宗韩式烤肉 / 专业帮烤",
+    "city": "Irvine",
+    "address": "14160 Culver Dr, Irvine, CA 92604, USA",
+    "lat": 33.708057,
+    "lng": -117.7838367,
+    "phone": "(949) 998-6328",
+    "website": "https://www.baekjeongkbbq.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=16100392474050288021&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:30 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1558,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "kaju_soft_tofu_irvine",
+    "name": "加州嫩豆腐煲",
+    "enName": "Kaju Soft Tofu - Irvine Northwood",
+    "category": "korean",
+    "subcategory": "韩式豆腐锅 / 汤饭 / 石锅饭",
+    "city": "Irvine",
+    "address": "5408 Walnut Ave, Irvine, CA 92604, USA",
+    "lat": 33.689433199999996,
+    "lng": -117.76948700000001,
+    "phone": "(949) 653-2849",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=2529928236456053886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 3.8,
+    "reviewCount": 266,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "bbq_chicken_irvine",
+    "name": "bb.q Chicken 韩式炸鸡",
+    "enName": "bb.q Chicken - Irvine Heritage",
+    "category": "korean",
+    "subcategory": "韩式炸鸡 / 啤酒夜宵",
+    "city": "Irvine",
+    "address": "6745 Quail Hill Pkwy, Irvine, CA 92603, USA",
+    "lat": 33.6549261,
+    "lng": -117.77780999999999,
+    "phone": "(949) 774-1564",
+    "website": "https://bbqchicken.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=4451186427583771667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 194,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "tang_190_irvine",
+    "name": "190度韩式牛骨汤",
+    "enName": "Tang 190 - Cypress Village",
+    "category": "korean",
+    "subcategory": "韩式牛骨汤 / 慢炖排骨",
+    "city": "Irvine",
+    "address": "14121 Jeffrey Rd, Irvine, CA 92620, USA",
+    "lat": 33.6959523,
+    "lng": -117.76460800000001,
+    "phone": "(949) 651-1901",
+    "website": "http://www.tang190.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=8980776101314765946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 559,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "song_hak_tustin",
+    "name": "松鹤韩式烤牛肠",
+    "enName": "Song Hak Korean BBQ - Tustin",
+    "category": "korean",
+    "subcategory": "韩式烤牛肠 / 烤肉专门店",
+    "city": "Tustin",
+    "address": "13828 Red Hill Ave, Tustin, CA 92780, USA",
+    "lat": 33.7349217,
+    "lng": -117.81253000000001,
+    "phone": "(714) 573-9292",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=13392964336132512686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:30 AM – 10:30 PM",
+    "priceLevel": "$$",
+    "rating": 4.0,
+    "reviewCount": 574,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "sup_noodle_bar_irvine",
+    "name": "舒普现代越南粉",
+    "enName": "Sup Noodle Bar - Irvine Heritage",
+    "category": "southeast",
+    "subcategory": "现代越式牛肉粉 / 牛肋排 Pho",
+    "city": "Irvine",
+    "address": "14370 Culver Dr Unit 2H, Irvine, CA 92604, USA",
+    "lat": 33.7053282,
+    "lng": -117.7847125,
+    "phone": "(657) 300-8420",
+    "website": "https://www.keiconcepts.info/brands/sup",
+    "googleMapsUrl": "https://maps.google.com/?cid=12459555818848901323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 10:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 1096,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "anqi_costa_mesa",
+    "name": "安南高级越法餐厅",
+    "enName": "AnQi Bistro - South Coast Plaza",
+    "category": "southeast",
+    "subcategory": "高级法越料理 / 蒜蓉黄油龙虾面",
+    "city": "Costa Mesa",
+    "address": "3333 Bristol St, Costa Mesa, CA 92626, USA",
+    "lat": 33.6886033,
+    "lng": -117.8882857,
+    "phone": "(714) 557-5679",
+    "website": "http://www.anqibistro.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=5221262778231968734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: Closed",
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 894,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "little_sister_irvine",
+    "name": "小妹妹东南亚融合餐馆",
+    "enName": "Little Sister - Irvine Spectrum",
+    "category": "southeast",
+    "subcategory": "法越融合料理 / 东南亚菜 / 鸡尾酒吧",
+    "city": "Irvine",
+    "address": "896 Spectrum Center Dr, Irvine, CA 92618, USA",
+    "lat": 33.6491244,
+    "lng": -117.7407865,
+    "phone": "(949) 800-8798",
+    "website": "https://www.dinelittlesister.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=6504894418259028512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.0,
+    "reviewCount": 616,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "pho_holic_santa_ana",
+    "name": "Pho Holic 越南牛肉粉",
+    "enName": "Pho Holic - Santa Ana",
+    "category": "southeast",
+    "subcategory": "传统越南牛肉粉 / 鲜牛骨髓 / 大牛肋排",
+    "city": "Santa Ana",
+    "address": "14932 Bushard St, Westminster, CA 92683, USA",
+    "lat": 33.7457442,
+    "lng": -117.9632825,
+    "phone": "(714) 733-8822",
+    "website": "https://phoholic.site/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7699589780560627403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 12:00 AM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 2386,
+    "parkingInfo": "Santa Ana 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Santa Ana"
+    ],
+    "description": "精选 Santa Ana 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "heytea_irvine",
+    "name": "喜茶",
+    "enName": "HEYTEA - Irvine Heritage",
+    "category": "dessert_tea",
+    "subcategory": "新茶饮 / 芝士茗茶 / 真原果",
+    "city": "Irvine",
+    "address": "5414 Walnut Ave Ste e, Irvine, CA 92604, USA",
+    "lat": 33.689191400000006,
+    "lng": -117.7702832,
+    "phone": "(949) 600-2280",
+    "website": "https://www.heytea.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=9366370271269885804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 728,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "chagee_irvine_coming_soon",
+    "name": "霸王茶姬原叶鲜奶茶",
+    "enName": "CHAGEE Modern Tea Bar - Irvine",
+    "category": "coming_soon",
+    "subcategory": "东方原叶鲜奶茶 / 尔湾新地标",
+    "city": "Irvine",
+    "address": "555 The, Shops At Mission Viejo #218, Mission Viejo, CA 92691, USA",
+    "lat": 33.5581546,
+    "lng": -117.6696332,
+    "phone": "(949) 385-3914",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=2428735719957243291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "coming_soon",
+    "hoursText": "Monday: 10:00 AM – 8:00 PM",
+    "priceLevel": "$",
+    "rating": 4.6,
+    "reviewCount": 28,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "orobae_irvine_heritage",
+    "name": "奥罗贝原茶工作室",
+    "enName": "Orobae - Heritage Plaza",
+    "category": "dessert_tea",
+    "subcategory": "极致萃茶工艺 / 浓醇原茶奶茶",
+    "city": "Irvine",
+    "address": "14250 Culver Drive Suite #E, Irvine, CA 92604, USA",
+    "lat": 33.706687099999996,
+    "lng": -117.7835498,
+    "phone": "",
+    "website": "",
+    "googleMapsUrl": "https://maps.google.com/?cid=16201297819310364333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "11:00 AM - 9:30 PM",
+    "priceLevel": "$",
+    "rating": 4.5,
+    "reviewCount": 499,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "omomo_tea_shopper_irvine",
+    "name": "OMOMO 鲜茶工作室",
+    "enName": "Omomo Tea Shoppe - Alton",
+    "category": "dessert_tea",
+    "subcategory": "精品手作奶茶 / 烤布蕾 / 鲜果泥",
+    "city": "Irvine",
+    "address": "14433 Culver Dr, Irvine, CA 92604, USA",
+    "lat": 33.7065491,
+    "lng": -117.788069,
+    "phone": "(949) 418-9470",
+    "website": "http://www.omomoteashoppe.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=10108228183347768007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 12:00 – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 590,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "sunright_tea_cypress_irvine",
+    "name": "日出茶研鲜果茶",
+    "enName": "Sunright Tea Studio - Cypress Village",
+    "category": "dessert_tea",
+    "subcategory": "鲜果茶 / 芝士波波",
+    "city": "Irvine",
+    "address": "15475 Jeffrey Rd #450, Irvine, CA 92618, USA",
+    "lat": 33.6802851,
+    "lng": -117.779099,
+    "phone": "(949) 418-7349",
+    "website": "http://www.snrtea.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12914469425013149890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 277,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "meet_fresh_irvine",
+    "name": "鲜芋仙台式手作甜品",
+    "enName": "Meet Fresh - Diamond Jamboree",
+    "category": "dessert_tea",
+    "subcategory": "台式手作甜品 / 芋圆仙草冰",
+    "city": "Irvine",
+    "address": "2710 Alton Pkwy #105, Irvine, CA 92606, USA",
+    "lat": 33.6875278,
+    "lng": -117.83385559999999,
+    "phone": "(949) 955-9236",
+    "website": "http://www.meetfresh.us/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7456875652715245735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 12:00 – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 3.8,
+    "reviewCount": 647,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "lady_m_heritage_irvine",
+    "name": "Lady M 法式千层蛋糕",
+    "enName": "Lady M Cake Boutique - Heritage Plaza",
+    "category": "dessert_tea",
+    "subcategory": "高级法式千层蛋糕 / 下午茶",
+    "city": "Irvine",
+    "address": "2967 Michelson Dr b, Irvine, CA 92612, USA",
+    "lat": 33.672407,
+    "lng": -117.846666,
+    "phone": "(949) 620-0298",
+    "website": "https://www.ladym.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=6198370767833430214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 11:00 AM – 7:00 PM",
+    "priceLevel": "$",
+    "rating": 3.8,
+    "reviewCount": 336,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "85c_bakery_diamond_irvine",
+    "name": "85°C 台湾烘焙咖啡",
+    "enName": "85°C Bakery Cafe - Diamond Jamboree",
+    "category": "dessert_tea",
+    "subcategory": "现烤台式面包 / 海盐咖啡",
+    "city": "Irvine",
+    "address": "2700 Alton Pkwy #123, Irvine, CA 92606, USA",
+    "lat": 33.688065,
+    "lng": -117.8340707,
+    "phone": "(949) 553-8585",
+    "website": "http://www.85cbakerycafe.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=15265761537628218320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 6:30 AM – 10:00 PM",
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 1973,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "sunmerry_bakery_irvine",
+    "name": "圣玛莉面包烘焙",
+    "enName": "Sunmerry Bakery - Irvine Walnut",
+    "category": "dessert_tea",
+    "subcategory": "手作日台烘焙 / 芋泥咸蛋黄",
+    "city": "Irvine",
+    "address": "14805 Jeffrey Rd E, Irvine, CA 92618, USA",
+    "lat": 33.6880424,
+    "lng": -117.77148109999997,
+    "phone": "(949) 398-8066",
+    "website": "https://www.sunmerryus.com/online-order",
+    "googleMapsUrl": "https://maps.google.com/?cid=9448143661789459370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 8:00 AM – 8:00 PM",
+    "priceLevel": "$",
+    "rating": 4.2,
+    "reviewCount": 398,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "uncle_tetsu_costa_mesa",
+    "name": "彻思叔叔日式轻乳酪",
+    "enName": "Uncle Tetsu - South Coast Plaza",
+    "category": "dessert_tea",
+    "subcategory": "日式舒芙蕾轻乳酪蛋糕 / 烘焙甜品",
+    "city": "Costa Mesa",
+    "address": "3033 Bristol St Ste 116, Costa Mesa, CA 92626, USA",
+    "lat": 33.6815277,
+    "lng": -117.88658480000001,
+    "phone": "(714) 253-3699",
+    "website": "https://uncletetsu-us.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=8643006568992130797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 10:00 AM – 8:00 PM",
+    "priceLevel": "$",
+    "rating": 4.6,
+    "reviewCount": 134,
+    "parkingInfo": "Costa Mesa 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Costa Mesa"
+    ],
+    "description": "精选 Costa Mesa 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "somisomi_irvine_spectrum",
+    "name": "SomiSomi 鲷鱼烧冰淇淋",
+    "enName": "SomiSomi Soft Serve - Irvine Spectrum",
+    "category": "dessert_tea",
+    "subcategory": "鲷鱼烧冰淇淋 / 现烤麻薯",
+    "city": "Irvine",
+    "address": "640 Spectrum Center Dr, Irvine, CA 92618, USA",
+    "lat": 33.651121499999995,
+    "lng": -117.7456418,
+    "phone": "(949) 932-0760",
+    "website": "https://www.somisomi.com/locations",
+    "googleMapsUrl": "https://maps.google.com/?cid=18194451837098499643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 10:00 AM – 11:00 PM",
+    "priceLevel": "$",
+    "rating": 4.5,
+    "reviewCount": 844,
+    "parkingInfo": "Irvine 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Irvine"
+    ],
+    "description": "精选 Irvine 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "mochinut_irvine_tustin",
+    "name": "Mochinut 麻薯甜甜圈",
+    "enName": "Mochinut - Tustin",
+    "category": "dessert_tea",
+    "subcategory": "Q弹麻薯波堤 / 韩式拉丝热狗",
+    "city": "Tustin",
+    "address": "1935 17th St C, Santa Ana, CA 92705, USA",
+    "lat": 33.7601963,
+    "lng": -117.83929029999999,
+    "phone": "(714) 714-0562",
+    "website": "http://www.mochinut.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=1626490530309043938&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "status": "open",
+    "hoursText": "Monday: 10:00 AM – 9:00 PM",
+    "priceLevel": "$",
+    "rating": 4.1,
+    "reviewCount": 18,
+    "parkingInfo": "Tustin 商业广场提供免费平地或立体停车位",
+    "dishes": [
+      {
+        "name": "主厨经典招牌菜",
+        "tag": "必点推荐"
+      }
+    ],
+    "tags": [
+      "Google Maps 认证坐标",
+      "高分精选",
+      "Tustin"
+    ],
+    "description": "精选 Tustin 知名亚洲品牌商户，官方 Google Maps 认证经纬度定位。",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+  }
+]
