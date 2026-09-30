@@ -17,10 +17,34 @@ interface MapViewProps {
   hasActiveFilter?: boolean;
 }
 
-const TILE_LAYERS = {
-  dark: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}{r}.png',
-  voyager: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
-  light: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+// Esri basemaps (no API key required). Canvas styles ship labels as a separate overlay.
+const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services';
+const ESRI_ATTRIBUTION = 'Tiles &copy; <a href="https://www.esri.com" target="_blank" rel="noopener">Esri</a>';
+
+const TILE_LAYERS: Record<'dark' | 'light' | 'voyager', { base: string; labels?: string; maxNativeZoom: number }> = {
+  dark: {
+    base: `${ESRI}/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}`,
+    labels: `${ESRI}/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}`,
+    maxNativeZoom: 16,
+  },
+  voyager: {
+    base: `${ESRI}/World_Street_Map/MapServer/tile/{z}/{y}/{x}`,
+    maxNativeZoom: 19,
+  },
+  light: {
+    base: `${ESRI}/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}`,
+    labels: `${ESRI}/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}`,
+    maxNativeZoom: 16,
+  },
+};
+
+// Builds the base layer plus optional label overlay for a style as one group
+const createTileGroup = (style: keyof typeof TILE_LAYERS) => {
+  const cfg = TILE_LAYERS[style] || TILE_LAYERS.dark;
+  const opts = { maxZoom: 19, maxNativeZoom: cfg.maxNativeZoom, attribution: ESRI_ATTRIBUTION };
+  const layers: L.Layer[] = [L.tileLayer(cfg.base, opts)];
+  if (cfg.labels) layers.push(L.tileLayer(cfg.labels, { ...opts, pane: 'overlayPane' }));
+  return L.layerGroup(layers);
 };
 
 export const MapView: React.FC<MapViewProps> = ({
@@ -34,7 +58,7 @@ export const MapView: React.FC<MapViewProps> = ({
 }) => {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<L.Map | null>(null);
-  const tileLayerRef = useRef<L.TileLayer | null>(null);
+  const tileLayerRef = useRef<L.LayerGroup | null>(null);
   const markersLayerRef = useRef<L.LayerGroup | null>(null);
   const userMarkerRef = useRef<L.Marker | null>(null);
 
@@ -50,6 +74,9 @@ export const MapView: React.FC<MapViewProps> = ({
       attributionControl: false,
     });
 
+    // Tile provider credit (required by Esri terms); bottom-right is taken by the legend
+    L.control.attribution({ position: 'bottomleft', prefix: false }).addTo(map);
+
     // Toggle store name labels strictly based on zoom level >= 13.8
     const updateLabelVisibility = () => {
       if (mapContainerRef.current) {
@@ -61,11 +88,7 @@ export const MapView: React.FC<MapViewProps> = ({
     map.on('zoom zoomend moveend', updateLabelVisibility);
     updateLabelVisibility();
 
-    const tileUrl = TILE_LAYERS[mapStyle] || TILE_LAYERS.dark;
-    const tileLayer = L.tileLayer(tileUrl, {
-      maxZoom: 19,
-      subdomains: 'abcd',
-    }).addTo(map);
+    const tileLayer = createTileGroup(mapStyle).addTo(map);
 
     const markersLayer = L.layerGroup().addTo(map);
 
@@ -82,8 +105,8 @@ export const MapView: React.FC<MapViewProps> = ({
   // Update Tile Layer on Style Change
   useEffect(() => {
     if (!mapRef.current || !tileLayerRef.current) return;
-    const tileUrl = TILE_LAYERS[mapStyle] || TILE_LAYERS.dark;
-    tileLayerRef.current.setUrl(tileUrl);
+    tileLayerRef.current.remove();
+    tileLayerRef.current = createTileGroup(mapStyle).addTo(mapRef.current);
   }, [mapStyle]);
 
   // Render Place Markers
