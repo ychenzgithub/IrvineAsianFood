@@ -17,6 +17,15 @@
   </head>
   <body class="bg-slate-950 text-slate-100 antialiased selection:bg-brand-500 selection:text-white font-sans overflow-hidden">
     <div id="root"></div>
+    <div style="position:fixed; bottom:6px; right:12px; z-index:30; pointer-events:none; font-size:11px; color:#94a3b8; background:rgba(15,23,42,0.85); backdrop-filter:blur(8px); padding:2px 8px; border-radius:9999px; border:1px solid rgba(51,65,85,0.6); display:flex; align-items:center; gap:6px;">
+      <span id="busuanzi_container_page_pv" style="display:none">
+        本页访问: <b id="busuanzi_value_page_pv" style="color:#f1f5f9; font-weight:600"></b>
+      </span>
+      <span id="busuanzi_container_site_uv" style="display:none">
+        · 全站访客: <b id="busuanzi_value_site_uv" style="color:#f1f5f9; font-weight:600"></b>
+      </span>
+    </div>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
