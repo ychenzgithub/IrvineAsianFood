@@ -16,3 +16,7 @@ dist/
 __pycache__/
 *.pyc
 .venv/
+
+# Intermediate raw data dumps
+src/data/google_places_extracted.json
+src/data/recalibrated_curated_places.json
